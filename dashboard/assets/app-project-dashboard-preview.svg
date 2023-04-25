@@ -1,0 +1,363 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1220" height="930" viewBox="0 0 1220 930">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0d0e15;
+      }
+
+      .cls-10, .cls-2 {
+        fill: #a4adcd;
+      }
+
+      .cls-2 {
+        font-size: 14px;
+        font-family: Heebo-Regular, Heebo;
+      }
+
+      .cls-11, .cls-3 {
+        fill: #384161;
+      }
+
+      .cls-4 {
+        fill: #029bff;
+      }
+
+      .cls-11, .cls-12, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        stroke: #0d0e15;
+      }
+
+      .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        stroke-linejoin: bevel;
+      }
+
+      .cls-5 {
+        fill: #ff021f;
+      }
+
+      .cls-6 {
+        fill: #59658e;
+      }
+
+      .cls-7 {
+        fill: #cbfd00;
+      }
+
+      .cls-8 {
+        fill: #7380aa;
+      }
+
+      .cls-9 {
+        fill: #4b8fe2;
+      }
+
+      .cls-12 {
+        fill: #5a658e;
+      }
+
+      .cls-13 {
+        fill: #d9ca56;
+      }
+
+      .cls-14, .cls-19, .cls-20, .cls-21, .cls-22, .cls-23, .cls-26, .cls-28, .cls-31, .cls-33, .cls-35 {
+        fill: none;
+      }
+
+      .cls-14, .cls-32 {
+        stroke: #384161;
+      }
+
+      .cls-15 {
+        fill: #d09576;
+      }
+
+      .cls-16 {
+        fill: #2394c4;
+      }
+
+      .cls-17 {
+        fill: #553e0d;
+      }
+
+      .cls-18 {
+        fill: #cf471b;
+      }
+
+      .cls-19 {
+        stroke: #cf471b;
+      }
+
+      .cls-19, .cls-20, .cls-21, .cls-22, .cls-23, .cls-26, .cls-28 {
+        stroke-width: 2px;
+      }
+
+      .cls-20 {
+        stroke: #d09576;
+      }
+
+      .cls-21 {
+        stroke: #d9ca56;
+      }
+
+      .cls-22 {
+        stroke: #553e0d;
+      }
+
+      .cls-23 {
+        stroke: #2394c4;
+      }
+
+      .cls-24 {
+        fill: #542d1f;
+      }
+
+      .cls-25 {
+        fill: #6d316b;
+      }
+
+      .cls-26 {
+        stroke: #6d316b;
+      }
+
+      .cls-27 {
+        fill: #d8d690;
+      }
+
+      .cls-28 {
+        stroke: #d8d690;
+      }
+
+      .cls-29 {
+        fill: #11141d;
+      }
+
+      .cls-30 {
+        fill: #4e5aa0;
+      }
+
+      .cls-31 {
+        stroke: #39405f;
+      }
+
+      .cls-32 {
+        fill: #1a1e2c;
+      }
+
+      .cls-33 {
+        stroke: rgba(56,65,97,0.3);
+      }
+
+      .cls-34, .cls-36 {
+        stroke: none;
+      }
+
+      .cls-36 {
+        fill: #39405f;
+      }
+    </style>
+  </defs>
+  <g id="app-project-dashboard-preview" transform="translate(-436 -96)">
+    <g id="widget">
+      <rect id="widget-2" data-name="widget" class="cls-1" width="1220" height="54" rx="4" transform="translate(436 96)"/>
+      <text id="widget-title" class="cls-2" transform="translate(1009 128)"><tspan x="0" y="0">Project Title</tspan></text>
+    </g>
+    <g id="widget-3" data-name="widget" transform="translate(424 150)">
+      <g id="widget-content" transform="translate(12 12)">
+        <rect id="widget-4" data-name="widget" class="cls-1" width="604" height="280" rx="4"/>
+        <g id="pie" transform="translate(0.003)">
+          <circle id="pie-2" data-name="pie" class="cls-3" cx="80" cy="80" r="80" transform="translate(222 60)"/>
+          <g id="slices_" data-name="slices ">
+            <path id="slice" class="cls-4" d="M18310,21095v-80a80,80,0,0,1,63.127,129.143Z" transform="translate(-18008 -20955)"/>
+            <path id="slice-2" data-name="slice" class="cls-5" d="M18088,21035l63.113,49.17a80.341,80.341,0,0,1-23.986,20.627Z" transform="translate(-17786 -20895)"/>
+            <path id="slice-3" data-name="slice" class="cls-6" d="M18088,21035l38.936,69.9A79.643,79.643,0,0,1,18088,21115Z" transform="translate(-17786 -20895)"/>
+            <path id="slice-4" data-name="slice" class="cls-7" d="M18056.566,21108.586,18088,21035v80A79.744,79.744,0,0,1,18056.566,21108.586Z" transform="translate(-17786 -20895)"/>
+            <path id="slice-5" data-name="slice" class="cls-8" d="M18026.607,21067.871l72.955-32.871-31.443,73.584A80.322,80.322,0,0,1,18026.607,21067.871Z" transform="translate(-17797.563 -20895)"/>
+            <path id="slice-6" data-name="slice" class="cls-9" d="M18020.994,21041.576a80,80,0,0,1,80-80v80l-72.9,32.994A79.671,79.671,0,0,1,18020.994,21041.576Z" transform="translate(-17798.996 -20901.574)"/>
+          </g>
+          <path id="ticks" class="cls-10" d="M18069.395,21055.029l-3.82-21.666a1.5,1.5,0,1,1,2.953-.523l3.816,21.666a1.492,1.492,0,0,1-1.217,1.738,1.46,1.46,0,0,1-.26.023A1.5,1.5,0,0,1,18069.395,21055.029Zm-28.631-1.416a1.508,1.508,0,0,1-.994-1.877l6.432-21.037a1.5,1.5,0,0,1,2.869.877l-6.432,21.037a1.5,1.5,0,0,1-1.437,1.064A1.551,1.551,0,0,1,18040.764,21053.613Zm8.223-6.379a1.5,1.5,0,0,1-.994-1.871l1.465-4.783a1.5,1.5,0,0,1,2.869.879l-1.465,4.781a1.5,1.5,0,0,1-1.875.994Zm24.842-1.623-.871-4.92a1.5,1.5,0,1,1,2.953-.523l.867,4.926a1.5,1.5,0,0,1-1.217,1.738,1.438,1.438,0,0,1-.258.023A1.5,1.5,0,0,1,18073.828,21045.611Zm24.479-2.875-13.244-17.57a1.5,1.5,0,1,1,2.4-1.807l13.236,17.57a1.5,1.5,0,1,1-2.393,1.807Zm-89.324-7.8a1.51,1.51,0,0,1,.148-2.119l16.6-14.432a1.5,1.5,0,1,1,1.971,2.266l-16.6,14.434a1.5,1.5,0,0,1-2.119-.148Zm10.352-1.047a1.506,1.506,0,0,1,.148-2.119l3.773-3.281a1.5,1.5,0,0,1,1.971,2.268l-3.777,3.275a1.5,1.5,0,0,1-2.115-.143Zm78.645-1.553-3.008-4a1.5,1.5,0,0,1,2.395-1.807l3.012,3.994a1.506,1.506,0,0,1-.295,2.1,1.49,1.49,0,0,1-.9.3A1.508,1.508,0,0,1,18097.979,21032.338Zm-2.141-51.836a1.5,1.5,0,0,1,0-3h5a1.5,1.5,0,0,1,0,3Zm-8.5-6a1.5,1.5,0,1,1,0-3h22a1.5,1.5,0,1,1,0,3Zm-69.5-10.5a1.5,1.5,0,1,1,0-3h5a1.5,1.5,0,0,1,0,3Zm-5.5-6a1.5,1.5,0,0,1,0-3h16a1.5,1.5,0,1,1,0,3Z" transform="translate(-17755.84 -20848.074)"/>
+        </g>
+        <text id="widget-title-2" data-name="widget-title" class="cls-2" transform="translate(16 31)"><tspan x="0" y="0">Task Status</tspan></text>
+      </g>
+    </g>
+    <g id="widget-5" data-name="widget" transform="translate(1040 150)">
+      <g id="widget-content-2" data-name="widget-content" transform="translate(12 12)">
+        <rect id="widget-6" data-name="widget" class="cls-1" width="604" height="280" rx="4"/>
+        <g id="pie-3" data-name="pie" transform="translate(0.003)">
+          <g id="pie-4" data-name="pie" class="cls-11" transform="translate(222 60)">
+            <circle class="cls-34" cx="80" cy="80" r="80"/>
+            <circle class="cls-35" cx="80" cy="80" r="79.5"/>
+          </g>
+          <path id="slice-7" data-name="slice" class="cls-12" d="M17415.426,21110.5l56.566-56.566v-80h.006a80,80,0,1,1-56.572,136.566Z" transform="translate(-17169.996 -20913.932)"/>
+          <path id="ticks-2" data-name="ticks" class="cls-10" d="M17480.211,20990a1.5,1.5,0,0,1,0-3h5a1.5,1.5,0,0,1,0,3Zm-6-6a1.5,1.5,0,0,1,0-3h17a1.5,1.5,0,0,1,0,3Zm-72.211-20a1.5,1.5,0,1,1,0-3h5a1.5,1.5,0,1,1,0,3Zm-8.5-6a1.5,1.5,0,1,1,0-3h22a1.5,1.5,0,1,1,0,3Z" transform="translate(-17144.484 -20831.574)"/>
+        </g>
+        <text id="widget-title-3" data-name="widget-title" class="cls-2" transform="translate(16 31)"><tspan x="0" y="0">Tag Summary</tspan></text>
+      </g>
+    </g>
+    <g id="widget-7" data-name="widget" transform="translate(424 442)">
+      <g id="widget-content-3" data-name="widget-content" transform="translate(12 12)">
+        <rect id="widget-8" data-name="widget" class="cls-1" width="398" height="280" rx="4"/>
+        <g id="graph" transform="translate(127.453 85.547)">
+          <rect id="color" class="cls-13" width="14" height="3" rx="1.5" transform="translate(-0.453 122.223)"/>
+          <rect id="legend" class="cls-10" width="61" height="3" rx="1.5" transform="translate(45.546 122.223)"/>
+          <g id="x-y-lines" transform="translate(-0.001 0.453)">
+            <line id="l" class="cls-14" x2="153.047" transform="translate(0 28.5)"/>
+            <line id="l-2" data-name="l" class="cls-14" y2="99.8" transform="translate(0.001)"/>
+            <line id="l-3" data-name="l" class="cls-14" x2="153.047" transform="translate(0 52.501)"/>
+            <line id="l-4" data-name="l" class="cls-14" x2="153.047" transform="translate(0 99.5)"/>
+            <line id="l-5" data-name="l" class="cls-14" y2="99.8" transform="translate(76.452)"/>
+            <line id="l-6" data-name="l" class="cls-14" y2="99.8" transform="translate(152.902)"/>
+            <line id="l-7" data-name="l" class="cls-14" x2="153.047" transform="translate(0 76.5)"/>
+            <line id="l-8" data-name="l" class="cls-14" x2="153.047" transform="translate(0 5.5)"/>
+          </g>
+          <g id="ticks-3" data-name="ticks">
+            <rect id="tick" class="cls-10" width="8" height="3" rx="1.5" transform="translate(-12.453 51.879)"/>
+            <rect id="tick-2" data-name="tick" class="cls-10" width="8" height="3" rx="1.5" transform="translate(-12.453 28.379)"/>
+            <rect id="tick-3" data-name="tick" class="cls-10" width="8" height="3" rx="1.5" transform="translate(-12.453 4.879)"/>
+            <rect id="tick-4" data-name="tick" class="cls-10" width="6" height="3" rx="1.5" transform="translate(-3 105.379)"/>
+            <rect id="tick-5" data-name="tick" class="cls-10" width="6" height="3" rx="1.5" transform="translate(73.047 105.379)"/>
+            <rect id="tick-6" data-name="tick" class="cls-10" width="6" height="3" rx="1.5" transform="translate(149.773 105.379)"/>
+            <rect id="tick-7" data-name="tick" class="cls-10" width="6" height="3" rx="1.5" transform="translate(-10 98.379)"/>
+            <rect id="tick-8" data-name="tick" class="cls-10" width="8" height="3" rx="1.5" transform="translate(-12.453 74.879)"/>
+          </g>
+          <g id="colors">
+            <rect id="color-2" data-name="color" class="cls-15" width="14" height="3" rx="1.5" transform="translate(17.547 122.223)"/>
+            <rect id="color-3" data-name="color" class="cls-16" width="14" height="3" rx="1.5" transform="translate(-0.453 128.223)"/>
+            <rect id="color-4" data-name="color" class="cls-17" width="14" height="3" rx="1.5" transform="translate(17.547 128.223)"/>
+            <rect id="color-5" data-name="color" class="cls-18" width="14" height="3" rx="1.5" transform="translate(-0.453 134.223)"/>
+          </g>
+          <path id="line" class="cls-19" d="M0,20.918H76.523V6.732h76.523"/>
+          <path id="line-2" data-name="line" class="cls-20" d="M0,13.738H76.523V6.732h76.523" transform="translate(0 58.18)"/>
+          <path id="line-3" data-name="line" class="cls-21" d="M0,13.273H116.523l5.619-9.945,5.671,9.945h25.233" transform="translate(0 64.18)"/>
+          <path id="line-4" data-name="line" class="cls-22" d="M0,13.273H79.523L82.2,9.2l2.615,4.07h68.233" transform="translate(0 87.18)"/>
+          <path id="line-5" data-name="line" class="cls-23" d="M0,13.273H153.047" transform="translate(0 80.18)"/>
+        </g>
+        <text id="widget-title-4" data-name="widget-title" class="cls-2" transform="translate(16 31)"><tspan x="0" y="0">Experiments</tspan></text>
+      </g>
+    </g>
+    <g id="widget-9" data-name="widget" transform="translate(834 442)">
+      <g id="widget-content-4" data-name="widget-content" transform="translate(12 12)">
+        <rect id="widget-10" data-name="widget" class="cls-1" width="398" height="280" rx="4"/>
+        <g id="graph-2" data-name="graph" transform="translate(127.453 85.547)">
+          <rect id="color-6" data-name="color" class="cls-24" width="14" height="3" rx="1.5" transform="translate(-0.453 122.223)"/>
+          <rect id="legend-2" data-name="legend" class="cls-10" width="61" height="3" rx="1.5" transform="translate(45.546 122.223)"/>
+          <g id="x-y-lines-2" data-name="x-y-lines" transform="translate(-0.001 0.453)">
+            <line id="l-9" data-name="l" class="cls-14" x2="153.047" transform="translate(0 28.5)"/>
+            <line id="l-10" data-name="l" class="cls-14" y2="99.8" transform="translate(0.001)"/>
+            <line id="l-11" data-name="l" class="cls-14" x2="153.047" transform="translate(0 52.501)"/>
+            <line id="l-12" data-name="l" class="cls-14" x2="153.047" transform="translate(0 99.5)"/>
+            <line id="l-13" data-name="l" class="cls-14" y2="99.8" transform="translate(76.452)"/>
+            <line id="l-14" data-name="l" class="cls-14" y2="99.8" transform="translate(152.902)"/>
+            <line id="l-15" data-name="l" class="cls-14" x2="153.047" transform="translate(0 76.5)"/>
+            <line id="l-16" data-name="l" class="cls-14" x2="153.047" transform="translate(0 5.5)"/>
+          </g>
+          <g id="ticks-4" data-name="ticks">
+            <rect id="tick-9" data-name="tick" class="cls-10" width="8" height="3" rx="1.5" transform="translate(-12.453 51.879)"/>
+            <rect id="tick-10" data-name="tick" class="cls-10" width="8" height="3" rx="1.5" transform="translate(-12.453 28.379)"/>
+            <rect id="tick-11" data-name="tick" class="cls-10" width="8" height="3" rx="1.5" transform="translate(-12.453 4.879)"/>
+            <rect id="tick-12" data-name="tick" class="cls-10" width="6" height="3" rx="1.5" transform="translate(-3 105.379)"/>
+            <rect id="tick-13" data-name="tick" class="cls-10" width="6" height="3" rx="1.5" transform="translate(73.047 105.379)"/>
+            <rect id="tick-14" data-name="tick" class="cls-10" width="6" height="3" rx="1.5" transform="translate(149.773 105.379)"/>
+            <rect id="tick-15" data-name="tick" class="cls-10" width="6" height="3" rx="1.5" transform="translate(-10 98.379)"/>
+            <rect id="tick-16" data-name="tick" class="cls-10" width="8" height="3" rx="1.5" transform="translate(-12.453 74.879)"/>
+          </g>
+          <g id="colors-2" data-name="colors">
+            <rect id="color-7" data-name="color" class="cls-25" width="14" height="3" rx="1.5" transform="translate(17.547 122.223)"/>
+          </g>
+          <path id="line-6" data-name="line" class="cls-26" d="M0,13.273H153.047" transform="translate(0 60.18)"/>
+          <path id="line-7" data-name="line" class="cls-22" d="M0,13.273H66.523L76.2-80.8l9.615,94.07h67.233" transform="translate(0 87.18)"/>
+        </g>
+        <text id="widget-title-5" data-name="widget-title" class="cls-2" transform="translate(16 31)"><tspan x="0" y="0">Monitoring</tspan></text>
+      </g>
+    </g>
+    <g id="widget-11" data-name="widget" transform="translate(1243.438 442)">
+      <g id="widget-content-5" data-name="widget-content" transform="translate(12.563 12)">
+        <rect id="widget-12" data-name="widget" class="cls-1" width="400" height="280" rx="4"/>
+        <g id="graph-3" data-name="graph" transform="translate(128.453 85.547)">
+          <rect id="color-8" data-name="color" class="cls-27" width="14" height="3" rx="1.5" transform="translate(-0.453 122.223)"/>
+          <rect id="legend-3" data-name="legend" class="cls-10" width="61" height="3" rx="1.5" transform="translate(45.546 122.223)"/>
+          <g id="x-y-lines-3" data-name="x-y-lines" transform="translate(-0.001 0.453)">
+            <line id="l-17" data-name="l" class="cls-14" x2="153.047" transform="translate(0 28.5)"/>
+            <line id="l-18" data-name="l" class="cls-14" y2="99.8" transform="translate(0.001)"/>
+            <line id="l-19" data-name="l" class="cls-14" x2="153.047" transform="translate(0 52.501)"/>
+            <line id="l-20" data-name="l" class="cls-14" x2="153.047" transform="translate(0 99.5)"/>
+            <line id="l-21" data-name="l" class="cls-14" y2="99.8" transform="translate(76.452)"/>
+            <line id="l-22" data-name="l" class="cls-14" y2="99.8" transform="translate(152.902)"/>
+            <line id="l-23" data-name="l" class="cls-14" x2="153.047" transform="translate(0 76.5)"/>
+            <line id="l-24" data-name="l" class="cls-14" x2="153.047" transform="translate(0 5.5)"/>
+          </g>
+          <g id="ticks-5" data-name="ticks">
+            <rect id="tick-17" data-name="tick" class="cls-10" width="8" height="3" rx="1.5" transform="translate(-12.453 51.879)"/>
+            <rect id="tick-18" data-name="tick" class="cls-10" width="8" height="3" rx="1.5" transform="translate(-12.453 28.379)"/>
+            <rect id="tick-19" data-name="tick" class="cls-10" width="8" height="3" rx="1.5" transform="translate(-12.453 4.879)"/>
+            <rect id="tick-20" data-name="tick" class="cls-10" width="6" height="3" rx="1.5" transform="translate(-3 105.379)"/>
+            <rect id="tick-21" data-name="tick" class="cls-10" width="6" height="3" rx="1.5" transform="translate(73.047 105.379)"/>
+            <rect id="tick-22" data-name="tick" class="cls-10" width="6" height="3" rx="1.5" transform="translate(149.773 105.379)"/>
+            <rect id="tick-23" data-name="tick" class="cls-10" width="6" height="3" rx="1.5" transform="translate(-10 98.379)"/>
+            <rect id="tick-24" data-name="tick" class="cls-10" width="8" height="3" rx="1.5" transform="translate(-12.453 74.879)"/>
+          </g>
+          <path id="line-8" data-name="line" class="cls-28" d="M0-26.727H96.523l8.76-78.58,7.38,47.295H152.9" transform="translate(0 117.18)"/>
+        </g>
+        <text id="widget-title-6" data-name="widget-title" class="cls-2" transform="translate(16 31)"><tspan x="0" y="0">Metric Monitoring</tspan></text>
+      </g>
+    </g>
+    <g id="widget-13" data-name="widget" transform="translate(424 734)">
+      <g id="widget-content-6" data-name="widget-content" transform="translate(12 12)">
+        <rect id="widget-14" data-name="widget" class="cls-1" width="604" height="280" rx="4"/>
+        <text id="widget-title-7" data-name="widget-title" class="cls-2" transform="translate(16 31)"><tspan x="0" y="0">Active Workers</tspan></text>
+        <g id="gauge" transform="translate(-427 -115)">
+          <g id="Subtraction_3" data-name="Subtraction 3" class="cls-29" transform="translate(597.227 207.479)">
+            <path class="cls-34" d="M 27.82733535766602 117.6367263793945 L 0.5359620451927185 117.635856628418 C 0.9195616841316223 112.0223083496094 1.679606914520264 106.4139099121094 2.796552419662476 100.9579315185547 C 4.450333595275879 92.87471008300781 6.916458606719971 84.92945861816406 10.12645816802979 77.34286499023438 C 13.28080272674561 69.88295745849609 17.18352127075195 62.6924934387207 21.72624015808105 55.97105407714844 C 26.22842788696289 49.30392837524414 31.39739608764648 43.03955459594727 37.08961486816406 37.35177230834961 C 42.78220748901367 31.65564918518066 49.04658508300781 26.4867115020752 55.70898818969727 21.98830413818359 C 62.42948913574219 17.44614791870117 69.61936187744141 13.54342937469482 77.07908630371094 10.38842964172363 C 84.66986846923828 7.176585674285889 92.61570739746094 4.709835529327393 100.695930480957 3.056679487228394 C 108.9846496582031 1.360210776329041 117.5160217285156 0.5000232458114624 126.0531158447266 0.5000232458114624 C 134.5895843505859 0.5000232458114624 143.1206512451172 1.360210776329041 151.4093627929688 3.056679487228394 C 159.4895782470703 4.709835529327393 167.4354248046875 7.176585674285889 175.0261840820312 10.38839817047119 C 182.4829254150391 13.54142951965332 189.6727752685547 17.44411659240723 196.3961486816406 21.98818016052246 C 203.0548706054688 26.48349189758301 209.3198699951172 31.65242958068848 215.017333984375 37.35158538818359 C 220.7098083496094 43.03964996337891 225.8787384033203 49.30402374267578 230.3807373046875 55.97089767456055 C 234.923583984375 62.6924934387207 238.8263092041016 69.88295745849609 241.9805908203125 77.34274291992188 C 245.1912078857422 84.9288330078125 247.6588592529297 92.87411499023438 249.3150787353516 100.9579925537109 C 250.4305725097656 106.4155807495117 251.1897430419922 112.0235137939453 251.5729675292969 117.6347961425781 L 225.1901397705078 117.6358184814453 C 224.8570404052734 113.9946136474609 224.3209381103516 110.3508529663086 223.5953674316406 106.7983703613281 C 222.2902374267578 100.4256134033203 220.3469543457031 94.16696166992188 217.8194580078125 88.19593048095703 C 215.3362731933594 82.32395935058594 212.2623901367188 76.66043090820312 208.6833343505859 71.36280822753906 C 205.1392059326172 66.11767578125 201.0679016113281 61.18299102783203 196.5824279785156 56.69574356079102 C 192.0993041992188 52.21439743041992 187.1649322509766 48.14339828491211 181.9162139892578 44.59568023681641 C 176.6136779785156 41.01539993286133 170.9505157470703 37.94155502319336 165.0838317871094 35.4594612121582 C 159.0958099365234 32.92752456665039 152.8368682861328 30.9842414855957 146.4807739257812 29.68358612060547 C 139.9410858154297 28.34867858886719 133.2218017578125 27.67183494567871 126.5093994140625 27.67183494567871 C 119.7979278564453 27.67183494567871 113.0786743164062 28.34867858886719 106.5382995605469 29.68352317810059 C 100.180549621582 30.98433494567871 93.92189788818359 32.92761611938477 87.93592834472656 35.45943069458008 C 82.07327270507812 37.93946075439453 76.40924072265625 41.01327514648438 71.10111236572266 44.59549331665039 C 65.85127258300781 48.14392852783203 60.91717910766602 52.21492767333984 56.43558502197266 56.69561767578125 C 51.94811630249023 61.18489837646484 47.87649154663086 66.11961364746094 44.333740234375 71.36277008056641 C 40.75314712524414 76.66393280029297 37.67930221557617 82.32746124267578 35.1975212097168 88.19608306884766 C 32.6691780090332 94.17115020751953 30.72677040100098 100.4298706054688 29.4243335723877 106.7982406616211 C 28.69773292541504 110.3511199951172 28.1608943939209 113.9949798583984 27.82733535766602 117.6367263793945 Z"/>
+            <path class="cls-36" d="M 27.37209320068359 117.1367034912109 C 27.70964431762695 113.628173828125 28.23444366455078 110.1211547851562 28.93449211120605 106.6980361938477 C 30.24355888366699 100.2972640991211 32.19582366943359 94.00673675537109 34.73699188232422 88.00133514404297 C 37.23135757446289 82.10296630859375 40.32072448730469 76.41083526611328 43.91942596435547 71.08287048339844 C 47.47989273071289 65.81346893310547 51.57192611694336 60.85400009155273 56.08209228515625 56.34206771850586 C 60.58612442016602 51.83890151977539 65.54496002197266 47.74746704101562 70.82138824462891 44.18099975585938 C 76.15625762939453 40.58076858520508 81.84886169433594 37.4914665222168 87.74119567871094 34.9989013671875 C 93.75746154785156 32.45426559448242 100.0479278564453 30.50110054016113 106.4383239746094 29.19359970092773 C 113.0115280151367 27.8520679473877 119.7644271850586 27.17183303833008 126.509391784668 27.17183303833008 C 133.2552947998047 27.17183303833008 140.0081939697266 27.8520679473877 146.5809936523438 29.19370079040527 C 152.9692993164062 30.50096702575684 159.2600250244141 32.4541015625 165.2786560058594 34.99893188476562 C 171.1749877929688 37.49359893798828 176.8667297363281 40.58293533325195 182.1961975097656 44.18140029907227 C 187.4712982177734 47.74696731567383 192.4303894042969 51.8383674621582 196.9360656738281 56.34226608276367 C 201.4439239501953 60.85186767578125 205.5356597900391 65.81133270263672 209.0976257324219 71.08290100097656 C 212.6947631835938 76.40723419189453 215.7841644287109 82.09940338134766 218.2799224853516 88.00102996826172 C 220.8202972412109 94.00243377685547 222.7734527587891 100.2929306030273 224.0852661132812 106.6983032226562 C 224.7843170166016 110.1209411621094 225.3083953857422 113.6278381347656 225.6454772949219 117.1357955932617 L 251.0365142822266 117.1348114013672 C 250.6438598632812 111.72412109375 249.9008483886719 106.3208389282227 248.8252258300781 101.0583343505859 C 247.1756896972656 93.00686645507812 244.7179260253906 85.09339904785156 241.5200958251953 77.53746795654297 C 238.3783569335938 70.10743713378906 234.4912261962891 62.9456672668457 229.9663848876953 56.250732421875 C 225.4822845458984 49.61033248901367 220.3338623046875 43.37080001831055 214.6637268066406 37.70510101318359 C 208.9889526367188 32.02859878540039 202.7488250732422 26.88013458251953 196.1161651611328 22.40243339538574 C 189.4195251464844 17.87643432617188 182.2583618164062 13.98930072784424 174.8313598632812 10.84886741638184 C 167.2708892822266 7.649900436401367 159.3568878173828 5.193033695220947 151.3090972900391 3.546533584594727 C 143.0533294677734 1.856767058372498 134.5559539794922 1.000000357627869 126.053092956543 1.000000357627869 C 117.5495910644531 1.000000357627869 109.0519561767578 1.856767058372498 100.7961273193359 3.546533584594727 C 92.74835968017578 5.193067073822021 84.83435821533203 7.649900436401367 77.27382659912109 10.84890079498291 C 69.84392547607422 13.99130058288574 62.68272399902344 17.87846755981445 55.98879241943359 22.40266609191895 C 49.35282516479492 26.88323402404785 43.11332702636719 32.03166580200195 37.44305801391602 37.70550155639648 C 31.7734260559082 43.37060165405273 26.62499237060547 49.61013412475586 22.1404914855957 56.25106811523438 C 17.61595916748047 62.94553375244141 13.72882556915283 70.1072998046875 10.58695888519287 77.53766632080078 C 7.389825344085693 85.09380340576172 4.933591842651367 93.0072021484375 3.286358594894409 101.0581970214844 C 2.209292888641357 106.3195495605469 1.46542227268219 111.7226791381836 1.072439074516296 117.1358642578125 L 27.37209320068359 117.1367034912109 M 28.28469276428223 118.1367340087891 L 0.001758618163876235 118.1358337402344 C 0.3745586276054382 112.3189697265625 1.1503586769104 106.506103515625 2.306691884994507 100.8576354980469 C 3.967125177383423 92.74199676513672 6.443158626556396 84.76493072509766 9.66599178314209 77.14800262451172 C 12.83295822143555 69.65826416015625 16.75125885009766 62.43910217285156 21.31199264526367 55.69110107421875 C 25.83192443847656 48.99766540527344 31.02135848999023 42.70843505859375 36.73622512817383 36.99810028076172 C 42.45109176635742 31.27963447570801 48.74029159545898 26.09020042419434 55.42922592163086 21.57390022277832 C 62.1762580871582 17.0137996673584 69.39479064941406 13.09549999237061 76.88429260253906 9.927900314331055 C 84.50545501708984 6.70323371887207 92.48312377929688 4.226600170135498 100.5956954956055 2.566833734512329 C 108.9173278808594 0.8636003136634827 117.4824600219727 3.377278687821672e-07 126.053092956543 3.377278687821672e-07 C 134.6231231689453 3.377278687821672e-07 143.1879577636719 0.8636003136634827 151.5096282958984 2.566833734512329 C 159.6221923828125 4.226600170135498 167.5998229980469 6.70323371887207 175.2210235595703 9.927900314331055 C 182.7074584960938 13.09346675872803 189.9259948730469 17.01176643371582 196.6761322021484 21.57390022277832 C 203.3611907958984 26.08699989318848 209.6510314941406 31.27643394470215 215.3709259033203 36.99810028076172 C 221.0857849121094 42.70849990844727 226.2752532958984 48.99773406982422 230.7951202392578 55.69110107421875 C 235.3558197021484 62.43910217285156 239.2741546630859 69.65826416015625 242.4411315917969 77.14800262451172 C 245.6645660400391 84.76439666748047 248.14208984375 92.74147033691406 249.8048858642578 100.8576354980469 C 250.9602661132812 106.5103302001953 251.73486328125 112.3231658935547 252.1071624755859 118.134765625 L 224.7327575683594 118.1358337402344 C 224.4052886962891 114.363899230957 223.8581237792969 110.5833969116211 223.1054992675781 106.8983993530273 C 221.8070220947266 100.5581970214844 219.8736267089844 94.33136749267578 217.3590240478516 88.39083099365234 C 214.8883209228516 82.54843139648438 211.8300323486328 76.91356658935547 208.2690277099609 71.64273071289062 C 204.7426910400391 66.42389678955078 200.6917877197266 61.51393508911133 196.2288208007812 57.04923248291016 C 191.7681884765625 52.59036636352539 186.8585205078125 48.53979873657227 181.6361846923828 45.0098991394043 C 176.360595703125 41.44779968261719 170.7260284423828 38.38946533203125 164.8890228271484 35.91989898681641 C 158.9314880371094 33.40090179443359 152.7043304443359 31.46746635437012 146.3805236816406 30.17340087890625 C 139.8739318847656 28.84526634216309 133.1882934570312 28.17183303833008 126.509391784668 28.17183303833008 C 119.8313903808594 28.17183303833008 113.1457901000977 28.84526634216309 106.6382904052734 30.17340087890625 C 100.3130950927734 31.46756744384766 94.08622741699219 33.40096664428711 88.13072204589844 35.91989898681641 C 82.29772186279297 38.38740158081055 76.66222381591797 41.44573211669922 71.38079071044922 45.0098991394043 C 66.1575927734375 48.54036712646484 61.24822616577148 52.59099960327148 56.78912353515625 57.04923248291016 C 52.32415771484375 61.51596832275391 48.27292633056641 66.42593383789062 44.74802398681641 71.64273071289062 C 41.1855583190918 76.91703033447266 38.12722396850586 82.55193328857422 35.65802383422852 88.39083099365234 C 33.14252471923828 94.33553314208984 31.21002578735352 100.5624008178711 29.91422462463379 106.8983993530273 C 29.16112518310547 110.5808029174805 28.61289215087891 114.3616027832031 28.28475952148438 118.1358337402344 L 28.28469276428223 118.1367340087891 Z"/>
+          </g>
+          <path id="Subtraction_6" data-name="Subtraction 6" class="cls-30" d="M12.75,110.867H0A118.814,118.814,0,0,1,2.179,94.327,117.464,117.464,0,0,1,19.955,52.086a118.465,118.465,0,0,1,51.977-42.8A117.512,117.512,0,0,1,94.107,2.4a119.3,119.3,0,0,1,47.618,0A117.55,117.55,0,0,1,163.9,9.284c3.593,1.52,7.159,3.244,10.6,5.126l-6.56,10.916c-2.924-1.579-5.949-3.033-8.993-4.32a105,105,0,0,0-19.788-6.142,106.435,106.435,0,0,0-42.488,0A104.818,104.818,0,0,0,58.979,30.725,105.732,105.732,0,0,0,20.786,77.1a105.019,105.019,0,0,0-6.143,19.787,106.365,106.365,0,0,0-1.893,13.974Z" transform="translate(605.365 214.748)"/>
+          <line id="tick-line" class="cls-31" x1="5.452" transform="translate(591.968 325.161)"/>
+          <line id="tick-line-2" data-name="tick-line" class="cls-31" x1="5.452" transform="translate(630.835 240.641) rotate(42)"/>
+          <line id="tick-line-3" data-name="tick-line" class="cls-31" x1="5.452" transform="translate(723.28 202.027) rotate(90)"/>
+          <line id="tick-line-4" data-name="tick-line" class="cls-31" x1="5.452" transform="translate(811.674 244.29) rotate(-42)"/>
+          <line id="tick-line-5" data-name="tick-line" class="cls-31" x1="5.452" transform="translate(848.232 325.161)"/>
+          <rect id="Rectangle_809" data-name="Rectangle 809" class="cls-10" width="8" height="3" rx="1.5" transform="translate(582 324)"/>
+          <rect id="Rectangle_815" data-name="Rectangle 815" class="cls-10" width="14" height="3" rx="1.5" transform="translate(615 237)"/>
+          <rect id="Rectangle_816" data-name="Rectangle 816" class="cls-10" width="14" height="3" rx="1.5" transform="translate(716 196)"/>
+          <rect id="Rectangle_817" data-name="Rectangle 817" class="cls-10" width="14" height="3" rx="1.5" transform="translate(819 237)"/>
+          <rect id="Rectangle_818" data-name="Rectangle 818" class="cls-10" width="14" height="3" rx="1.5" transform="translate(856 324)"/>
+          <rect id="Rectangle_819" data-name="Rectangle 819" class="cls-10" width="32" height="7" rx="3.5" transform="translate(707 291)"/>
+        </g>
+      </g>
+    </g>
+    <g id="widget-15" data-name="widget" transform="translate(1040 734)">
+      <g id="widget-content-7" data-name="widget-content" transform="translate(12 12)">
+        <rect id="widget-16" data-name="widget" class="cls-1" width="604" height="280" rx="4"/>
+        <g id="table" transform="translate(1 6)">
+          <g id="table-2" data-name="table" class="cls-14" transform="translate(111 121)">
+            <rect class="cls-34" width="381" height="76"/>
+            <rect class="cls-35" x="0.5" y="0.5" width="380" height="75"/>
+          </g>
+          <g id="row" class="cls-32" transform="translate(111 121)">
+            <rect class="cls-34" width="381" height="16"/>
+            <rect class="cls-35" x="0.5" y="0.5" width="380" height="15"/>
+          </g>
+          <g id="row-2" data-name="row" class="cls-14" transform="translate(111 136)">
+            <rect class="cls-34" width="381" height="16"/>
+            <rect class="cls-35" x="0.5" y="0.5" width="380" height="15"/>
+          </g>
+          <g id="row-3" data-name="row" class="cls-14" transform="translate(111 151)">
+            <rect class="cls-34" width="381" height="16"/>
+            <rect class="cls-35" x="0.5" y="0.5" width="380" height="15"/>
+          </g>
+          <g id="row-4" data-name="row" class="cls-14" transform="translate(111 166)">
+            <rect class="cls-34" width="381" height="16"/>
+            <rect class="cls-35" x="0.5" y="0.5" width="380" height="15"/>
+          </g>
+          <g id="row-5" data-name="row" class="cls-14" transform="translate(111 181)">
+            <rect class="cls-34" width="381" height="16"/>
+            <rect class="cls-35" x="0.5" y="0.5" width="380" height="15"/>
+          </g>
+          <line id="divider" class="cls-33" y2="74.359" transform="translate(204.5 122.141)"/>
+          <line id="divider-2" data-name="divider" class="cls-33" y2="74.359" transform="translate(301.501 122.141)"/>
+          <line id="divider-3" data-name="divider" class="cls-33" y2="74.359" transform="translate(398.5 122.141)"/>
+          <path id="text" class="cls-10" d="M17681.5,20456a1.5,1.5,0,0,1,0-3h12a1.5,1.5,0,1,1,0,3Zm-97,0a1.5,1.5,0,1,1,0-3h17a1.5,1.5,0,1,1,0,3Zm-97,0a1.5,1.5,0,1,1,0-3h23a1.5,1.5,0,0,1,0,3Zm-94,0a1.5,1.5,0,0,1,0-3h29a1.5,1.5,0,1,1,0,3Zm288-15a1.5,1.5,0,0,1,0-3h41a1.5,1.5,0,1,1,0,3Zm-97,0a1.5,1.5,0,1,1,0-3h70a1.5,1.5,0,0,1,0,3Zm-97,0a1.5,1.5,0,1,1,0-3h10a1.5,1.5,0,1,1,0,3Zm-94,0a1.5,1.5,0,0,1,0-3h41a1.5,1.5,0,1,1,0,3Zm288-15a1.5,1.5,0,0,1,0-3h24a1.5,1.5,0,1,1,0,3Zm-97,0a1.5,1.5,0,1,1,0-3h7a1.5,1.5,0,0,1,0,3Zm-97,0a1.5,1.5,0,1,1,0-3h18a1.5,1.5,0,1,1,0,3Zm-94,0a1.5,1.5,0,0,1,0-3h19a1.5,1.5,0,1,1,0,3Zm288-15a1.5,1.5,0,0,1,0-3h12a1.5,1.5,0,1,1,0,3Zm-97,0a1.5,1.5,0,1,1,0-3h39a1.5,1.5,0,1,1,0,3Zm-97,0a1.5,1.5,0,1,1,0-3h8a1.5,1.5,0,1,1,0,3Zm-94,0a1.5,1.5,0,0,1,0-3h58a1.5,1.5,0,0,1,0,3Zm288-15a1.5,1.5,0,0,1,0-3h46a1.5,1.5,0,0,1,0,3Zm-97,0a1.5,1.5,0,1,1,0-3h27a1.5,1.5,0,0,1,0,3Zm-97,0a1.5,1.5,0,0,1,0-3h50a1.5,1.5,0,1,1,0,3Zm-94,0a1.5,1.5,0,0,1,0-3h33a1.5,1.5,0,0,1,0,3Z" transform="translate(-17275 -20265)"/>
+        </g>
+        <text id="widget-title-8" data-name="widget-title" class="cls-2" transform="translate(16 31)"><tspan x="0" y="0">Workers Table</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

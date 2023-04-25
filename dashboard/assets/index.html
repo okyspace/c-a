@@ -1,0 +1,200 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Project Dashboard</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html,
+        body {
+            height: 100%;
+        }
+
+        body {
+            font-family: sans-serif;
+            font-size: 14px;
+            color: #a4adcd;
+            background: #1a1e2c;
+            min-width: 760px;
+        }
+        ::-webkit-scrollbar {
+            width: 14px;
+            height: 14px;
+            background: #1a1e2c;
+        }
+        ::-webkit-scrollbar-track {
+            border-radius: 3px;
+        }
+        ::-webkit-scrollbar-thumb {
+            background-color: #565b6b;
+            border-style: solid;
+            border-color: transparent;
+            border-width: 4px;
+            border-radius: 14px;
+            background-clip: padding-box;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background-color: #707ba3;
+        }
+        ::-webkit-scrollbar-corner {
+            background-color: transparent;
+        }
+
+        .grid {
+            height: 100%;
+            padding: 24px 24px 0 24px;
+            display: grid;
+            grid-gap: 12px;
+            grid-template-areas:
+                "a"
+                "b"
+                "c"
+                "d"
+                "e"
+                "f"
+                "g"
+                "h"
+                "i";
+        }
+        .grid::after {
+            content: "";
+            height: 12px;
+        }
+        @media (min-width: 960px) {
+            /* screen above 960px */
+            .grid {
+                grid-template-areas:
+                "a a a a a a"
+                "b b b c c c"
+                "d d e e f f"
+                "g g g h h h"
+                "i i i i i i";
+                grid-template-columns: repeat(6, 1fr);
+                grid-template-rows: auto repeat(4, 1fr);
+            }
+        }
+        .col-a {
+            grid-area: a;
+        }
+        .col-b {
+            grid-area: b;
+        }
+        .col-c {
+            grid-area: c;
+        }
+        .col-d {
+            grid-area: d;
+        }
+        .col-e {
+            grid-area: e;
+        }
+        .col-f {
+            grid-area: f;
+        }
+        .col-g {
+            grid-area: g;
+        }
+        .col-h {
+            grid-area: h;
+        }
+        .col-i {
+            grid-area: i;
+        }
+
+        .col {
+            display: flex;
+            flex-direction: column;
+            padding: 16px;
+            border-radius: 4px;
+            background-color: #0d0e15;
+        }
+
+        .col h4 {
+            display: block;
+            margin: 0;
+            padding: 0;
+            font-size: 14px;
+            font-weight: 500;
+            color: #a4adcd;
+        }
+
+        .col-a h4 {text-align: center;}
+
+        .col .plot {
+            display: flex;
+            flex: 1;
+            align-items: center;
+            justify-content: center;
+            margin-top: 16px;
+        }
+
+        .col .plot img {
+            max-width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="grid">
+        <div class="col col-a">
+            <h4>Project Title</h4>
+        </div>
+        <div class="col col-b">
+            <h4>Task Status Summary</h4>
+            <div class="plot">
+                <img src="pie_task-status.svg" />
+            </div>
+        </div>
+        <div class="col col-c">
+            <h4>Task Type Summary</h4>
+            <div class="plot">
+                <img src="pie_tag-summary.svg" />
+            </div>
+        </div>
+        <div class="col col-d">
+            <h4>Experiments Summary</h4>
+            <div class="plot">
+                <img src="graph_experiments.svg" />
+            </div>
+        </div>
+        <div class="col col-e">
+            <h4>Monitoring</h4>
+            <div class="plot">
+                <img src="graph_monitoring.svg" />
+            </div>
+        </div>
+        <div class="col col-f">
+            <h4>Metric Monitoring</h4>
+            <div class="plot">
+                <img src="graph_metric-monitoring.svg" />
+            </div>
+        </div>
+        <div class="col col-g">
+            <h4>Project's Active Workers</h4>
+            <div class="plot">
+                <img src="gauge_active-workers.svg" />
+            </div>
+        </div>
+        <div class="col col-h">
+            <h4>Workers Table</h4>
+            <div class="plot">
+                <img src="table.svg" />
+            </div>
+        </div>
+        <div class="col col-i">
+            <h4>Failed Experiments</h4>
+            <div class="plot">
+                <img src="table.svg" />
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>

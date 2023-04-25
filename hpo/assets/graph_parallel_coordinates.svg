@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="377" height="113" viewBox="0 0 377 113">
+  <g id="parallel-coordinates" transform="translate(-685.969 -875.215)">
+    <g id="x-y-lines" transform="translate(698.369 881.174)">
+      <line id="l" y2="100" transform="translate(266.1)" fill="none" stroke="#384161" stroke-width="1"/>
+      <line id="l-2" data-name="l" y2="100" transform="translate(178.1)" fill="none" stroke="#384161" stroke-width="1"/>
+      <line id="l-3" data-name="l" y2="100" transform="translate(89.1)" fill="none" stroke="#384161" stroke-width="1"/>
+      <line id="l-4" data-name="l" y2="99.8" transform="translate(355.309 0.115)" fill="none" stroke="#384161" stroke-width="1"/>
+      <line id="l-5" data-name="l" y2="100" transform="translate(355.1)" fill="none" stroke="#384161" stroke-width="1"/>
+      <line id="l-6" data-name="l" y2="100" transform="translate(0.1)" fill="none" stroke="#384161" stroke-width="1"/>
+    </g>
+    <g id="ticks" transform="translate(685.969 886.715)">
+      <rect id="tick" width="8" height="3" rx="1.5" transform="translate(0 66)" fill="#a4adcd"/>
+      <rect id="tick-2" data-name="tick" width="8" height="3" rx="1.5" transform="translate(0 44)" fill="#a4adcd"/>
+      <rect id="tick-3" data-name="tick" width="8" height="3" rx="1.5" transform="translate(0 22)" fill="#a4adcd"/>
+      <rect id="tick-4" data-name="tick" width="6" height="3" rx="1.5" transform="translate(9.453 98.5)" fill="#a4adcd"/>
+      <rect id="tick-5" data-name="tick" width="6" height="3" rx="1.5" transform="translate(275.5 98.5)" fill="#a4adcd"/>
+      <rect id="tick-6" data-name="tick" width="6" height="3" rx="1.5" transform="translate(98.547 98.5)" fill="#a4adcd"/>
+      <rect id="tick-7" data-name="tick" width="8" height="3" rx="1.5" transform="translate(0 88)" fill="#a4adcd"/>
+      <rect id="tick-8" data-name="tick" width="6" height="3" rx="1.5" transform="translate(187.547 98.5)" fill="#a4adcd"/>
+      <rect id="tick-9" data-name="tick" width="8" height="3" rx="1.5" fill="#a4adcd"/>
+      <rect id="tick-10" data-name="tick" width="6" height="3" rx="1.5" transform="translate(364.5 98.5)" fill="#a4adcd"/>
+      <rect id="tick-11" data-name="tick" width="19" height="3" rx="1.5" transform="translate(3 -11.5)" fill="#a4adcd"/>
+      <rect id="tick-12" data-name="tick" width="19" height="3" rx="1.5" transform="translate(92 -11.5)" fill="#a4adcd"/>
+      <rect id="tick-13" data-name="tick" width="19" height="3" rx="1.5" transform="translate(181 -11.5)" fill="#a4adcd"/>
+      <rect id="tick-14" data-name="tick" width="19" height="3" rx="1.5" transform="translate(269 -11.5)" fill="#a4adcd"/>
+      <rect id="tick-15" data-name="tick" width="19" height="3" rx="1.5" transform="translate(358 -11.5)" fill="#a4adcd"/>
+      <rect id="tick-16" data-name="tick" width="8" height="3" rx="1.5" transform="translate(89 66)" fill="#a4adcd"/>
+      <rect id="tick-17" data-name="tick" width="8" height="3" rx="1.5" transform="translate(89 44)" fill="#a4adcd"/>
+      <rect id="tick-18" data-name="tick" width="8" height="3" rx="1.5" transform="translate(89 22)" fill="#a4adcd"/>
+      <rect id="tick-19" data-name="tick" width="8" height="3" rx="1.5" transform="translate(89 88)" fill="#a4adcd"/>
+      <rect id="tick-20" data-name="tick" width="8" height="3" rx="1.5" transform="translate(89)" fill="#a4adcd"/>
+      <rect id="tick-21" data-name="tick" width="8" height="3" rx="1.5" transform="translate(178 66)" fill="#a4adcd"/>
+      <rect id="tick-22" data-name="tick" width="8" height="3" rx="1.5" transform="translate(178 44)" fill="#a4adcd"/>
+      <rect id="tick-23" data-name="tick" width="8" height="3" rx="1.5" transform="translate(178 22)" fill="#a4adcd"/>
+      <rect id="tick-24" data-name="tick" width="8" height="3" rx="1.5" transform="translate(178 88)" fill="#a4adcd"/>
+      <rect id="tick-25" data-name="tick" width="8" height="3" rx="1.5" transform="translate(178)" fill="#a4adcd"/>
+      <rect id="tick-26" data-name="tick" width="8" height="3" rx="1.5" transform="translate(266.5 66)" fill="#a4adcd"/>
+      <rect id="tick-27" data-name="tick" width="8" height="3" rx="1.5" transform="translate(266.5 44)" fill="#a4adcd"/>
+      <rect id="tick-28" data-name="tick" width="8" height="3" rx="1.5" transform="translate(266.5 22)" fill="#a4adcd"/>
+      <rect id="tick-29" data-name="tick" width="8" height="3" rx="1.5" transform="translate(266.5 88)" fill="#a4adcd"/>
+      <rect id="tick-30" data-name="tick" width="8" height="3" rx="1.5" transform="translate(266.5)" fill="#a4adcd"/>
+      <rect id="tick-31" data-name="tick" width="8" height="3" rx="1.5" transform="translate(356.5 66)" fill="#a4adcd"/>
+      <rect id="tick-32" data-name="tick" width="8" height="3" rx="1.5" transform="translate(356.5 44)" fill="#a4adcd"/>
+      <rect id="tick-33" data-name="tick" width="8" height="3" rx="1.5" transform="translate(356.5 22)" fill="#a4adcd"/>
+      <rect id="tick-34" data-name="tick" width="8" height="3" rx="1.5" transform="translate(356.5 88)" fill="#a4adcd"/>
+      <rect id="tick-35" data-name="tick" width="8" height="3" rx="1.5" transform="translate(356.5)" fill="#a4adcd"/>
+    </g>
+    <g id="lines">
+      <path id="line" d="M698.469,889.629l88.475,54.459,89.035,2.516L964.5,911.24l88.662,57.031" fill="none" stroke="#a09432" stroke-linecap="round" stroke-width="2"/>
+      <path id="line-2" data-name="line" d="M698.469,889.629l90.082,34.732,88.18,7.1,88.2-24,89.561,49.291" transform="translate(0 19.943)" fill="none" stroke="#a09432" stroke-linecap="round" stroke-width="2"/>
+      <path id="line-3" data-name="line" d="M699.137,934.863l89.414-10.5,87.906-51.74,88.822,37.539,88.465-59.8" transform="translate(0 39.943)" fill="none" stroke="#703683" stroke-linecap="round" stroke-width="2"/>
+      <path id="line-4" data-name="line" d="M698.953,882.24l89.191,18.768,89.041-24.463,88.238,43.865,87.686-30.232" transform="translate(0 49.943)" fill="none" stroke="#569f53" stroke-linecap="round" stroke-width="2"/>
+      <path id="line-5" data-name="line" d="M698.7,916.359l90.8-2.662,87.107-63.205,88.627,79.816,88.09-41.574" transform="translate(0 39.943)" fill="none" stroke="#569f53" stroke-linecap="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

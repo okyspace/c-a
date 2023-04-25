@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160.503" height="161">
+    <g data-name="pie" transform="translate(0 .498)" fill="#384161" stroke="#0d0e15">
+        <circle cx="80" cy="80" r="80" stroke="none"/>
+        <circle cx="80" cy="80" r="79.5" fill="none"/>
+    </g>
+    <path d="M23.43 137.066L79.996 80.5V.5h.006A80 80 0 1123.43 137.066z" fill="#5a658e" stroke="#0d0e15"/>
+    <path d="M113.727 98.924a1.5 1.5 0 010-3h5a1.5 1.5 0 010 3zm-6-6a1.5 1.5 0 010-3h17a1.5 1.5 0 010 3zm-72.211-20a1.5 1.5 0 110-3h5a1.5 1.5 0 110 3zm-8.5-6a1.5 1.5 0 110-3h22a1.5 1.5 0 110 3z" fill="#a4adcd"/>
+</svg>
