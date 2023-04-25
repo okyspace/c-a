@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="228" height="128" viewBox="0 0 228 128">
+  <g id="graph" transform="translate(21183.26 22929.551)">
+    <rect id="color" width="14" height="3" rx="1.5" transform="translate(-21166.26 -22804.551)" fill="#6b70b7"/>
+    <rect id="legend" width="61" height="3" rx="1.5" transform="translate(-21098.26 -22804.551)" fill="#a4adcd"/>
+    <g id="x-y-lines" transform="translate(-21166.26 -22936.551)">
+      <line id="l" x2="213" transform="translate(-2 69.5)" fill="none" stroke="#384161" stroke-width="1"/>
+      <line id="l-2" data-name="l" x2="213" transform="translate(-2 94.5)" fill="none" stroke="#384161" stroke-width="1"/>
+      <line id="l-3" data-name="l" x2="213" transform="translate(-2 44.5)" fill="none" stroke="#384161" stroke-width="1"/>
+      <line id="l-4" data-name="l" x2="213" transform="translate(-2 19.5)" fill="none" stroke="#384161" stroke-width="1"/>
+      <line id="l-5" data-name="l" y2="100" transform="translate(50 7)" fill="none" stroke="#384161" stroke-width="1"/>
+      <line id="l-6" data-name="l" y2="100" transform="translate(100 7)" fill="none" stroke="#384161" stroke-width="1"/>
+      <line id="l-7" data-name="l" y2="100" transform="translate(150 7)" fill="none" stroke="#384161" stroke-width="1"/>
+      <line id="l-8" data-name="l" y2="100" transform="translate(200 7)" fill="none" stroke="#384161" stroke-width="1"/>
+    </g>
+    <g id="dots" transform="translate(-21159.307 -22933.074)">
+      <circle id="dot" cx="2" cy="2" r="2" transform="translate(4.047 94.523)" fill="#6b70b7"/>
+      <circle id="dot-2" data-name="dot" cx="2" cy="2" r="2" transform="translate(41.047 56.523)" fill="#6b70b7"/>
+      <circle id="dot-3" data-name="dot" cx="2" cy="2" r="2" transform="translate(67.047 37.523)" fill="#6b70b7"/>
+      <circle id="dot-4" data-name="dot" cx="2" cy="2" r="2" transform="translate(91.047 24.523)" fill="#6b70b7"/>
+      <circle id="dot-5" data-name="dot" cx="2" cy="2" r="2" transform="translate(141.047 7.523)" fill="#6b70b7"/>
+      <circle id="dot-6" data-name="dot" cx="2" cy="2" r="2" transform="translate(167.047 5.523)" fill="#6b70b7"/>
+      <circle id="dot-7" data-name="dot" cx="2" cy="2" r="2" transform="translate(191.047 5.523)" fill="#6b70b7"/>
+      <circle id="dot-8" data-name="dot" cx="2" cy="2" r="2" transform="translate(116.047 13.523)" fill="#6b70b7"/>
+    </g>
+    <g id="ticks">
+      <rect id="tick" width="8" height="3" rx="1.5" transform="translate(-21183.26 -22843.551)" fill="#a4adcd"/>
+      <rect id="tick-2" data-name="tick" width="8" height="3" rx="1.5" transform="translate(-21183.26 -22868.551)" fill="#a4adcd"/>
+      <rect id="tick-3" data-name="tick" width="8" height="3" rx="1.5" transform="translate(-21183.26 -22893.551)" fill="#a4adcd"/>
+      <rect id="tick-4" data-name="tick" width="8" height="3" rx="1.5" transform="translate(-21183.26 -22918.551)" fill="#a4adcd"/>
+      <rect id="tick-5" data-name="tick" width="6" height="3" rx="1.5" transform="translate(-21119.26 -22823.551)" fill="#a4adcd"/>
+      <rect id="tick-6" data-name="tick" width="6" height="3" rx="1.5" transform="translate(-21069.26 -22823.551)" fill="#a4adcd"/>
+      <rect id="tick-7" data-name="tick" width="6" height="3" rx="1.5" transform="translate(-21019.26 -22823.551)" fill="#a4adcd"/>
+      <rect id="tick-8" data-name="tick" width="6" height="3" rx="1.5" transform="translate(-20969.26 -22823.551)" fill="#a4adcd"/>
+    </g>
+    <path id="line" d="M-20815.223-20751.172l36.93-37.795,26.242-19.187,23.73-12.865,25.2-11.027,24.766-6.018,26.078-1.961h23.971" transform="translate(-337.934 -2085.477)" fill="none" stroke="#6b70b7" stroke-width="2"/>
+  </g>
+</svg>

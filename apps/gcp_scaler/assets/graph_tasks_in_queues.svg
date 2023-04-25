@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="206" height="123.5" viewBox="0 0 206 123.5">
+  <g id="graph" transform="translate(0 1.344)">
+    <g id="x-y-lines" transform="translate(12 15.115)">
+      <line id="l" x2="194" transform="translate(0 12.291)" fill="none" stroke="#384161" stroke-width="1"/>
+      <line id="l-2" data-name="l" x2="194" transform="translate(0 40.291)" fill="none" stroke="#384161" stroke-width="1"/>
+      <line id="l-3" data-name="l" x2="194" transform="translate(0 67.291)" fill="none" stroke="#384161" stroke-width="1"/>
+      <line id="l-4" data-name="l" x2="194" transform="translate(0 95.291)" fill="none" stroke="#384161" stroke-width="1"/>
+      <line id="l-5" data-name="l" x2="194" transform="translate(0 -14.709)" fill="none" stroke="#384161" stroke-width="1"/>
+      <line id="l-6" data-name="l" y2="114.674" transform="translate(136.563 -14.674)" fill="none" stroke="#384161" stroke-width="1"/>
+      <line id="l-7" data-name="l" y2="114.789" transform="translate(47.793 -14.674)" fill="none" stroke="#384161" stroke-width="1"/>
+    </g>
+    <g id="ticks" transform="translate(0 20.656)">
+      <rect id="tick" width="8" height="3" rx="1.5" transform="translate(0 60)" fill="#a4adcd"/>
+      <rect id="tick-2" data-name="tick" width="8" height="3" rx="1.5" transform="translate(0 33)" fill="#a4adcd"/>
+      <rect id="tick-3" data-name="tick" width="15" height="3" rx="1.5" transform="translate(51.453 98.5)" fill="#a4adcd"/>
+      <rect id="tick-4" data-name="tick" width="8" height="3" rx="1.5" transform="translate(0 88)" fill="#a4adcd"/>
+      <rect id="tick-5" data-name="tick" width="8" height="3" rx="1.5" transform="translate(0 5)" fill="#a4adcd"/>
+      <rect id="tick-6" data-name="tick" width="8" height="3" rx="1.5" transform="translate(0 -22)" fill="#a4adcd"/>
+      <rect id="tick-7" data-name="tick" width="15" height="3" rx="1.5" transform="translate(141.453 98.5)" fill="#a4adcd"/>
+    </g>
+    <g id="bars">
+      <rect id="bar" width="74" height="55" transform="translate(22 54.941)" fill="#7bae80"/>
+      <rect id="bar-2" data-name="bar" width="74" height="109" transform="translate(112 0.941)" fill="#7bae80"/>
+    </g>
+  </g>
+</svg>

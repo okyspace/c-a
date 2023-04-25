@@ -1,0 +1,3 @@
+clearml>=1.0.5
+pathlib2>=2.3.0
+plotly>=5.1.0

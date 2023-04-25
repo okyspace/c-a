@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="228.59" height="128" viewBox="0 0 228.59 128">
+  <g id="graph" transform="translate(21183.26 22929.551)">
+    <rect id="color" width="14" height="3" rx="1.5" transform="translate(-21166.26 -22804.551)" fill="#dbc172"/>
+    <rect id="legend" width="61" height="3" rx="1.5" transform="translate(-21098.26 -22804.551)" fill="#a4adcd"/>
+    <g id="x-y-lines" transform="translate(-21166.26 -22936.551)">
+      <line id="l" x2="213" transform="translate(-2 81.5)" fill="none" stroke="#384161" stroke-width="1"/>
+      <line id="l-2" data-name="l" x2="213" transform="translate(-2 103.5)" fill="none" stroke="#384161" stroke-width="1"/>
+      <line id="l-3" data-name="l" x2="213" transform="translate(-2 59.5)" fill="none" stroke="#384161" stroke-width="1"/>
+      <line id="l-4" data-name="l" x2="213" transform="translate(-2 37.5)" fill="none" stroke="#384161" stroke-width="1"/>
+      <line id="l-5" data-name="l" x2="213" transform="translate(-2 15.5)" fill="none" stroke="#384161" stroke-width="1"/>
+      <line id="l-6" data-name="l" y2="100" transform="translate(31.5 7)" fill="none" stroke="#384161" stroke-width="1"/>
+      <line id="l-7" data-name="l" y2="100" transform="translate(65.501 7)" fill="none" stroke="#384161" stroke-width="1"/>
+      <line id="l-8" data-name="l" y2="100" transform="translate(99.5 7)" fill="none" stroke="#384161" stroke-width="1"/>
+      <line id="l-9" data-name="l" y2="100" transform="translate(133.5 7)" fill="none" stroke="#384161" stroke-width="1"/>
+      <line id="l-10" data-name="l" y2="100" transform="translate(167.499 7)" fill="none" stroke="#384161" stroke-width="1"/>
+      <line id="l-11" data-name="l" y2="100" transform="translate(202.5 7)" fill="none" stroke="#384161" stroke-width="1"/>
+    </g>
+    <g id="ticks">
+      <rect id="tick" width="8" height="3" rx="1.5" transform="translate(-21183.26 -22834.551)" fill="#a4adcd"/>
+      <rect id="tick-2" data-name="tick" width="8" height="3" rx="1.5" transform="translate(-21183.26 -22856.551)" fill="#a4adcd"/>
+      <rect id="tick-3" data-name="tick" width="8" height="3" rx="1.5" transform="translate(-21183.26 -22878.551)" fill="#a4adcd"/>
+      <rect id="tick-4" data-name="tick" width="8" height="3" rx="1.5" transform="translate(-21183.26 -22900.551)" fill="#a4adcd"/>
+      <rect id="tick-5" data-name="tick" width="8" height="3" rx="1.5" transform="translate(-21183.26 -22922.551)" fill="#a4adcd"/>
+      <rect id="tick-6" data-name="tick" width="6" height="3" rx="1.5" transform="translate(-21137.26 -22823.551)" fill="#a4adcd"/>
+      <rect id="tick-7" data-name="tick" width="6" height="3" rx="1.5" transform="translate(-21104.26 -22823.551)" fill="#a4adcd"/>
+      <rect id="tick-8" data-name="tick" width="6" height="3" rx="1.5" transform="translate(-21070.26 -22823.551)" fill="#a4adcd"/>
+      <rect id="tick-9" data-name="tick" width="6" height="3" rx="1.5" transform="translate(-21036.26 -22823.551)" fill="#a4adcd"/>
+      <rect id="tick-10" data-name="tick" width="6" height="3" rx="1.5" transform="translate(-21002.26 -22823.551)" fill="#a4adcd"/>
+      <rect id="tick-11" data-name="tick" width="6" height="3" rx="1.5" transform="translate(-20966.26 -22823.551)" fill="#a4adcd"/>
+    </g>
+    <path id="line" d="M-22073.541-19811.523l3.656-9,2.666,7.264,1.766-2.582,1.914,5.576,1.953-3.768,3.867,14.9,2.408-6.568v6.568l3.377-6.568,1.887,8.8,2.8-11,3.443,17.777,2.105-20.143,2.395,16.807,3.6-14.441,2.184,24.775,4.16-32.717v25.719l3.922-12.215,4.111,15.438,3.748-34.295,1.74,22.064,3,4.4,1.664,19.6,4.117-27.207,2.428,11.355.738-3.748,4.643-15.535,2.34,46.973v-33.605l1.955,10,4.068-14.068,1.619,42.514,2.613-40.676v24l3.3-16.508,3.512,21.32,2.166-26.58,4.545,23.537,3.891-23.537,3.061,28.648,3.58-25.209,4.98,41.531,3-36.119,5.111,32.953,4.092-37.664,2.412,9.393v-15.365l4.646,37.9,3.166-42.3,2.029,30.881,2.475-26.48v58.117l5.787-48.578,2.09,42.051v-39.984l3.418,35.785,2.379-22.979,2.6,22.979,1.617-22.979,2.578,19.2,2.061-17.135,3.322,18.039,2.637-23.15,3.936,24.674,3.639-27.623,1.512,24.023,2.6-12.76,2.57,14.836,1.807-20.107,4.426,24.078,2.1-28.891,2.486,19.652,2.473-14.84,5.492,20.107,2.947-13.082,4.553,18.58" transform="translate(906.02 -3099.23)" fill="none" stroke="#dbc172" stroke-width="2"/>
+  </g>
+</svg>

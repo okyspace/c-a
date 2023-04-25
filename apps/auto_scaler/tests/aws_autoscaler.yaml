@@ -1,0 +1,31 @@
+configurations:
+  extra_clearml_conf: ''
+  extra_trains_conf: ''
+  extra_vm_bash_script: ''
+  queues:
+    {QUEUE}:
+    - - m1 
+      - 3
+  resource_configurations:
+    m1:
+      ami_id: ami-09e67e426f25ce0d7  # Ubuntu Server 20.04 LTS
+      availability_zone: us-east-1b
+      ebs_device_name: /dev/sda1
+      ebs_volume_size: 100
+      ebs_volume_type: gp3
+      instance_type: t2.micro
+      is_spot: true
+      key_name: null
+      security_group_ids: null
+hyper_params:
+  cloud_credentials_key: {AWS_ACCESS_KEY_ID}
+  cloud_credentials_region: us-east-1
+  cloud_credentials_secret: {AWS_SECRET_ACCESS_KEY}
+  cloud_provider: AWS
+  default_docker_image: null  # Run directly on AMI
+  git_pass: null
+  git_user: null
+  max_idle_time_min: 15
+  max_spin_up_time_min: 30
+  polling_interval_time_min: 0.1
+  workers_prefix: {WORKERS_PREFIX}

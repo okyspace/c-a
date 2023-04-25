@@ -1,0 +1,266 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1220" height="930" viewBox="0 0 1220 930">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0d0e15;
+      }
+
+      .cls-2 {
+        fill: #384161;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #a4adcd;
+      }
+
+      .cls-4 {
+        font-size: 14px;
+        font-family: Heebo-Regular, Heebo;
+      }
+
+      .cls-5 {
+        fill: #6b70b7;
+      }
+
+      .cls-11, .cls-13, .cls-6, .cls-7, .cls-9 {
+        fill: none;
+      }
+
+      .cls-6 {
+        stroke: #384161;
+      }
+
+      .cls-7 {
+        stroke: #6b70b7;
+      }
+
+      .cls-11, .cls-13, .cls-7, .cls-9 {
+        stroke-width: 2px;
+      }
+
+      .cls-8 {
+        fill: #dbc172;
+      }
+
+      .cls-9 {
+        stroke: #dbc172;
+      }
+
+      .cls-10 {
+        fill: #d2fd00;
+      }
+
+      .cls-11 {
+        stroke: #d2fd00;
+      }
+
+      .cls-12 {
+        fill: #a3d3eb;
+      }
+
+      .cls-13 {
+        stroke: #a3d3eb;
+      }
+    </style>
+  </defs>
+  <g id="app-clara-dashboard-preview" transform="translate(-436 -96)">
+    <g id="widget" transform="translate(424 684.23)">
+      <g id="widget-content" transform="translate(12 40.223)">
+        <rect id="widget-2" data-name="widget" class="cls-1" width="1220" height="302" rx="4" transform="translate(0 -0.453)"/>
+        <g id="log" transform="translate(-197.969 -792.453)">
+          <g id="Group_692" data-name="Group 692" transform="translate(452 889)">
+            <rect id="Rectangle_809" data-name="Rectangle 809" class="cls-2" width="103" height="3" rx="1.5" transform="translate(-0.031)"/>
+            <rect id="Rectangle_810" data-name="Rectangle 810" class="cls-2" width="380" height="3" rx="1.5" transform="translate(120.969)"/>
+          </g>
+          <g id="Group_692-2" data-name="Group 692" transform="translate(452 909.992)">
+            <rect id="Rectangle_809-2" data-name="Rectangle 809" class="cls-3" width="103" height="3" rx="1.5" transform="translate(-0.031 0.008)"/>
+            <rect id="Rectangle_810-2" data-name="Rectangle 810" class="cls-3" width="591" height="3" rx="1.5" transform="translate(120.969 0.008)"/>
+          </g>
+          <g id="Group_692-3" data-name="Group 692" transform="translate(452 930.985)">
+            <rect id="Rectangle_809-3" data-name="Rectangle 809" class="cls-2" width="103" height="3" rx="1.5" transform="translate(-0.031 0.016)"/>
+            <rect id="Rectangle_810-3" data-name="Rectangle 810" class="cls-2" width="667" height="3" rx="1.5" transform="translate(120.969 0.016)"/>
+          </g>
+          <g id="Group_692-4" data-name="Group 692" transform="translate(452 951.978)">
+            <rect id="Rectangle_809-4" data-name="Rectangle 809" class="cls-2" width="103" height="3" rx="1.5" transform="translate(-0.031 0.021)"/>
+            <rect id="Rectangle_810-4" data-name="Rectangle 810" class="cls-2" width="168" height="3" rx="1.5" transform="translate(120.969 0.021)"/>
+          </g>
+          <g id="Group_693" data-name="Group 693" transform="translate(452 972.97)">
+            <rect id="Rectangle_809-5" data-name="Rectangle 809" class="cls-3" width="103" height="3" rx="1.5" transform="translate(-0.031 0.029)"/>
+            <rect id="Rectangle_810-5" data-name="Rectangle 810" class="cls-3" width="231" height="3" rx="1.5" transform="translate(120.969 0.029)"/>
+          </g>
+          <g id="Group_695" data-name="Group 695" transform="translate(452 993.963)">
+            <rect id="Rectangle_809-6" data-name="Rectangle 809" class="cls-2" width="103" height="3" rx="1.5" transform="translate(-0.031 0.037)"/>
+            <rect id="Rectangle_810-6" data-name="Rectangle 810" class="cls-2" width="303" height="3" rx="1.5" transform="translate(120.969 0.037)"/>
+          </g>
+        </g>
+        <text id="widget-title" class="cls-4" transform="translate(28 30.547)"><tspan x="-11.696" y="0">Log</tspan></text>
+      </g>
+    </g>
+    <g id="widget-3" data-name="widget" transform="translate(1040 398)">
+      <g id="widget-content-2" data-name="widget-content" transform="translate(12 12)">
+        <rect id="widget-4" data-name="widget" class="cls-1" width="604" height="302" rx="4"/>
+        <g id="graph" transform="translate(21371.26 23029.551)">
+          <rect id="color" class="cls-5" width="14" height="3" rx="1.5" transform="translate(-21166.26 -22804.551)"/>
+          <rect id="legend" class="cls-3" width="61" height="3" rx="1.5" transform="translate(-21098.26 -22804.551)"/>
+          <g id="x-y-lines" transform="translate(-21166.26 -22936.551)">
+            <line id="l" class="cls-6" x2="213" transform="translate(-2 69.5)"/>
+            <line id="l-2" data-name="l" class="cls-6" x2="213" transform="translate(-2 94.5)"/>
+            <line id="l-3" data-name="l" class="cls-6" x2="213" transform="translate(-2 44.5)"/>
+            <line id="l-4" data-name="l" class="cls-6" x2="213" transform="translate(-2 19.5)"/>
+            <line id="l-5" data-name="l" class="cls-6" y2="100" transform="translate(50 7)"/>
+            <line id="l-6" data-name="l" class="cls-6" y2="100" transform="translate(100 7)"/>
+            <line id="l-7" data-name="l" class="cls-6" y2="100" transform="translate(150 7)"/>
+            <line id="l-8" data-name="l" class="cls-6" y2="100" transform="translate(200 7)"/>
+          </g>
+          <g id="dots" transform="translate(-21159.307 -22933.074)">
+            <circle id="dot" class="cls-5" cx="2" cy="2" r="2" transform="translate(4.047 94.523)"/>
+            <circle id="dot-2" data-name="dot" class="cls-5" cx="2" cy="2" r="2" transform="translate(41.047 56.523)"/>
+            <circle id="dot-3" data-name="dot" class="cls-5" cx="2" cy="2" r="2" transform="translate(67.047 37.523)"/>
+            <circle id="dot-4" data-name="dot" class="cls-5" cx="2" cy="2" r="2" transform="translate(91.047 24.523)"/>
+            <circle id="dot-5" data-name="dot" class="cls-5" cx="2" cy="2" r="2" transform="translate(141.047 7.523)"/>
+            <circle id="dot-6" data-name="dot" class="cls-5" cx="2" cy="2" r="2" transform="translate(167.047 5.523)"/>
+            <circle id="dot-7" data-name="dot" class="cls-5" cx="2" cy="2" r="2" transform="translate(191.047 5.523)"/>
+            <circle id="dot-8" data-name="dot" class="cls-5" cx="2" cy="2" r="2" transform="translate(116.047 13.523)"/>
+          </g>
+          <g id="ticks">
+            <rect id="tick" class="cls-3" width="8" height="3" rx="1.5" transform="translate(-21183.26 -22843.551)"/>
+            <rect id="tick-2" data-name="tick" class="cls-3" width="8" height="3" rx="1.5" transform="translate(-21183.26 -22868.551)"/>
+            <rect id="tick-3" data-name="tick" class="cls-3" width="8" height="3" rx="1.5" transform="translate(-21183.26 -22893.551)"/>
+            <rect id="tick-4" data-name="tick" class="cls-3" width="8" height="3" rx="1.5" transform="translate(-21183.26 -22918.551)"/>
+            <rect id="tick-5" data-name="tick" class="cls-3" width="6" height="3" rx="1.5" transform="translate(-21119.26 -22823.551)"/>
+            <rect id="tick-6" data-name="tick" class="cls-3" width="6" height="3" rx="1.5" transform="translate(-21069.26 -22823.551)"/>
+            <rect id="tick-7" data-name="tick" class="cls-3" width="6" height="3" rx="1.5" transform="translate(-21019.26 -22823.551)"/>
+            <rect id="tick-8" data-name="tick" class="cls-3" width="6" height="3" rx="1.5" transform="translate(-20969.26 -22823.551)"/>
+          </g>
+          <path id="line" class="cls-7" d="M-20815.223-20751.172l36.93-37.795,26.242-19.187,23.73-12.865,25.2-11.027,24.766-6.018,26.078-1.961h23.971" transform="translate(-337.934 -2085.477)"/>
+        </g>
+        <text id="widget-title-2" data-name="widget-title" class="cls-4" transform="translate(83 31)"><tspan x="-55.655" y="0">Training Accuracy</tspan></text>
+      </g>
+    </g>
+    <g id="widget-5" data-name="widget" transform="translate(422 398)">
+      <g id="widget-content-3" data-name="widget-content" transform="translate(-8 12)">
+        <rect id="widget-6" data-name="widget" class="cls-1" width="604" height="302" rx="4" transform="translate(22)"/>
+        <g id="graph-2" data-name="graph" transform="translate(21393.26 23028.551)">
+          <rect id="color-2" data-name="color" class="cls-8" width="14" height="3" rx="1.5" transform="translate(-21166.26 -22804.551)"/>
+          <rect id="legend-2" data-name="legend" class="cls-3" width="61" height="3" rx="1.5" transform="translate(-21098.26 -22804.551)"/>
+          <g id="x-y-lines-2" data-name="x-y-lines" transform="translate(-21166.26 -22936.551)">
+            <line id="l-9" data-name="l" class="cls-6" x2="213" transform="translate(-2 81.5)"/>
+            <line id="l-10" data-name="l" class="cls-6" x2="213" transform="translate(-2 103.5)"/>
+            <line id="l-11" data-name="l" class="cls-6" x2="213" transform="translate(-2 59.5)"/>
+            <line id="l-12" data-name="l" class="cls-6" x2="213" transform="translate(-2 37.5)"/>
+            <line id="l-13" data-name="l" class="cls-6" x2="213" transform="translate(-2 15.5)"/>
+            <line id="l-14" data-name="l" class="cls-6" y2="100" transform="translate(31.5 7)"/>
+            <line id="l-15" data-name="l" class="cls-6" y2="100" transform="translate(65.501 7)"/>
+            <line id="l-16" data-name="l" class="cls-6" y2="100" transform="translate(99.5 7)"/>
+            <line id="l-17" data-name="l" class="cls-6" y2="100" transform="translate(133.5 7)"/>
+            <line id="l-18" data-name="l" class="cls-6" y2="100" transform="translate(167.499 7)"/>
+            <line id="l-19" data-name="l" class="cls-6" y2="100" transform="translate(202.5 7)"/>
+          </g>
+          <g id="ticks-2" data-name="ticks">
+            <rect id="tick-9" data-name="tick" class="cls-3" width="8" height="3" rx="1.5" transform="translate(-21183.26 -22834.551)"/>
+            <rect id="tick-10" data-name="tick" class="cls-3" width="8" height="3" rx="1.5" transform="translate(-21183.26 -22856.551)"/>
+            <rect id="tick-11" data-name="tick" class="cls-3" width="8" height="3" rx="1.5" transform="translate(-21183.26 -22878.551)"/>
+            <rect id="tick-12" data-name="tick" class="cls-3" width="8" height="3" rx="1.5" transform="translate(-21183.26 -22900.551)"/>
+            <rect id="tick-13" data-name="tick" class="cls-3" width="8" height="3" rx="1.5" transform="translate(-21183.26 -22922.551)"/>
+            <rect id="tick-14" data-name="tick" class="cls-3" width="6" height="3" rx="1.5" transform="translate(-21137.26 -22823.551)"/>
+            <rect id="tick-15" data-name="tick" class="cls-3" width="6" height="3" rx="1.5" transform="translate(-21104.26 -22823.551)"/>
+            <rect id="tick-16" data-name="tick" class="cls-3" width="6" height="3" rx="1.5" transform="translate(-21070.26 -22823.551)"/>
+            <rect id="tick-17" data-name="tick" class="cls-3" width="6" height="3" rx="1.5" transform="translate(-21036.26 -22823.551)"/>
+            <rect id="tick-18" data-name="tick" class="cls-3" width="6" height="3" rx="1.5" transform="translate(-21002.26 -22823.551)"/>
+            <rect id="tick-19" data-name="tick" class="cls-3" width="6" height="3" rx="1.5" transform="translate(-20966.26 -22823.551)"/>
+          </g>
+          <path id="line-2" data-name="line" class="cls-9" d="M-22073.541-19811.523l3.656-9,2.666,7.264,1.766-2.582,1.914,5.576,1.953-3.768,3.867,14.9,2.408-6.568v6.568l3.377-6.568,1.887,8.8,2.8-11,3.443,17.777,2.105-20.143,2.395,16.807,3.6-14.441,2.184,24.775,4.16-32.717v25.719l3.922-12.215,4.111,15.438,3.748-34.295,1.74,22.064,3,4.4,1.664,19.6,4.117-27.207,2.428,11.355.738-3.748,4.643-15.535,2.34,46.973v-33.605l1.955,10,4.068-14.068,1.619,42.514,2.613-40.676v24l3.3-16.508,3.512,21.32,2.166-26.58,4.545,23.537,3.891-23.537,3.061,28.648,3.58-25.209,4.98,41.531,3-36.119,5.111,32.953,4.092-37.664,2.412,9.393v-15.365l4.646,37.9,3.166-42.3,2.029,30.881,2.475-26.48v58.117l5.787-48.578,2.09,42.051v-39.984l3.418,35.785,2.379-22.979,2.6,22.979,1.617-22.979,2.578,19.2,2.061-17.135,3.322,18.039,2.637-23.15,3.936,24.674,3.639-27.623,1.512,24.023,2.6-12.76,2.57,14.836,1.807-20.107,4.426,24.078,2.1-28.891,2.486,19.652,2.473-14.84,5.492,20.107,2.947-13.082,4.553,18.58" transform="translate(906.02 -3099.23)"/>
+        </g>
+        <text id="widget-title-3" data-name="widget-title" class="cls-4" transform="translate(80 31)"><tspan x="-41.822" y="0">Training Loss</tspan></text>
+      </g>
+    </g>
+    <g id="widget-7" data-name="widget" transform="translate(1040 84)">
+      <g id="widget-content-4" data-name="widget-content" transform="translate(12 12)">
+        <rect id="widget-8" data-name="widget" class="cls-1" width="604" height="302" rx="4"/>
+        <g id="graph-3" data-name="graph" transform="translate(21371.26 23029.551)">
+          <rect id="color-3" data-name="color" class="cls-10" width="14" height="3" rx="1.5" transform="translate(-21166.26 -22804.551)"/>
+          <rect id="legend-3" data-name="legend" class="cls-3" width="61" height="3" rx="1.5" transform="translate(-21098.26 -22804.551)"/>
+          <g id="x-y-lines-3" data-name="x-y-lines" transform="translate(-21166.26 -22936.551)">
+            <line id="l-20" data-name="l" class="cls-6" x2="213" transform="translate(-2 79.5)"/>
+            <line id="l-21" data-name="l" class="cls-6" x2="213" transform="translate(-2 96.5)"/>
+            <line id="l-22" data-name="l" class="cls-6" x2="213" transform="translate(-2 62.499)"/>
+            <line id="l-23" data-name="l" class="cls-6" x2="213" transform="translate(-2 46.501)"/>
+            <line id="l-24" data-name="l" class="cls-6" x2="213" transform="translate(-2 29.5)"/>
+            <line id="l-25" data-name="l" class="cls-6" y2="100" transform="translate(50 7)"/>
+            <line id="l-26" data-name="l" class="cls-6" y2="100" transform="translate(100 7)"/>
+            <line id="l-27" data-name="l" class="cls-6" y2="100" transform="translate(150 7)"/>
+            <line id="l-28" data-name="l" class="cls-6" y2="100" transform="translate(200 7)"/>
+            <line id="l-29" data-name="l" class="cls-6" x2="213" transform="translate(-2 13.5)"/>
+          </g>
+          <g id="dots-2" data-name="dots" transform="translate(-21159.307 -22933.074)">
+            <circle id="dot-9" data-name="dot" class="cls-10" cx="2" cy="2" r="2" transform="translate(2.047 96.523)"/>
+            <circle id="dot-10" data-name="dot" class="cls-10" cx="2" cy="2" r="2" transform="translate(41.047 69.523)"/>
+            <circle id="dot-11" data-name="dot" class="cls-10" cx="2" cy="2" r="2" transform="translate(67.047 65.523)"/>
+            <circle id="dot-12" data-name="dot" class="cls-10" cx="2" cy="2" r="2" transform="translate(91.047 40.523)"/>
+            <circle id="dot-13" data-name="dot" class="cls-10" cx="2" cy="2" r="2" transform="translate(141.047 5.523)"/>
+            <circle id="dot-14" data-name="dot" class="cls-10" cx="2" cy="2" r="2" transform="translate(168.047 36.523)"/>
+            <circle id="dot-15" data-name="dot" class="cls-10" cx="2" cy="2" r="2" transform="translate(190.047 18.523)"/>
+            <circle id="dot-16" data-name="dot" class="cls-10" cx="2" cy="2" r="2" transform="translate(117.047 21.523)"/>
+          </g>
+          <g id="ticks-3" data-name="ticks">
+            <rect id="tick-20" data-name="tick" class="cls-3" width="8" height="3" rx="1.5" transform="translate(-21183.26 -22841.551)"/>
+            <rect id="tick-21" data-name="tick" class="cls-3" width="8" height="3" rx="1.5" transform="translate(-21183.26 -22858.551)"/>
+            <rect id="tick-22" data-name="tick" class="cls-3" width="8" height="3" rx="1.5" transform="translate(-21183.26 -22875.551)"/>
+            <rect id="tick-23" data-name="tick" class="cls-3" width="8" height="3" rx="1.5" transform="translate(-21183.26 -22891.551)"/>
+            <rect id="tick-24" data-name="tick" class="cls-3" width="8" height="3" rx="1.5" transform="translate(-21183.26 -22908.551)"/>
+            <rect id="tick-25" data-name="tick" class="cls-3" width="6" height="3" rx="1.5" transform="translate(-21119.26 -22823.551)"/>
+            <rect id="tick-26" data-name="tick" class="cls-3" width="6" height="3" rx="1.5" transform="translate(-21069.26 -22823.551)"/>
+            <rect id="tick-27" data-name="tick" class="cls-3" width="6" height="3" rx="1.5" transform="translate(-21019.26 -22823.551)"/>
+            <rect id="tick-28" data-name="tick" class="cls-3" width="6" height="3" rx="1.5" transform="translate(-20969.26 -22823.551)"/>
+            <rect id="tick-29" data-name="tick" class="cls-3" width="8" height="3" rx="1.5" transform="translate(-21183.26 -22924.551)"/>
+          </g>
+          <path id="line-3" data-name="line" class="cls-11" d="M-20817.666-20748.93l39.277-26.988,26.07-4.154,23.889-25.025,26.129-19.068,23.908-15.941,27.1,31.111,22-18.125" transform="translate(-337.934 -2085.477)"/>
+        </g>
+        <text id="widget-title-4" data-name="widget-title" class="cls-4" transform="translate(83 31)"><tspan x="-61.694" y="0">Validation Accuracy</tspan></text>
+      </g>
+    </g>
+    <g id="widget-9" data-name="widget" transform="translate(424 84)">
+      <g id="widget-content-5" data-name="widget-content" transform="translate(12 12)">
+        <rect id="widget-10" data-name="widget" class="cls-1" width="604" height="302" rx="4"/>
+        <g id="graph-4" data-name="graph" transform="translate(21371.26 23029.551)">
+          <rect id="color-4" data-name="color" class="cls-12" width="14" height="3" rx="1.5" transform="translate(-21166.26 -22804.551)"/>
+          <rect id="legend-4" data-name="legend" class="cls-3" width="61" height="3" rx="1.5" transform="translate(-21098.26 -22804.551)"/>
+          <g id="x-y-lines-4" data-name="x-y-lines" transform="translate(-21166.26 -22936.551)">
+            <line id="l-30" data-name="l" class="cls-6" x2="213" transform="translate(-2 73)"/>
+            <line id="l-31" data-name="l" class="cls-6" x2="213" transform="translate(-2 94)"/>
+            <line id="l-32" data-name="l" class="cls-6" x2="213" transform="translate(-2 52)"/>
+            <line id="l-33" data-name="l" class="cls-6" x2="213" transform="translate(-2 31)"/>
+            <line id="l-34" data-name="l" class="cls-6" x2="213" transform="translate(-2 10)"/>
+            <line id="l-35" data-name="l" class="cls-6" y2="100" transform="translate(50 7)"/>
+            <line id="l-36" data-name="l" class="cls-6" y2="100" transform="translate(100 7)"/>
+            <line id="l-37" data-name="l" class="cls-6" y2="100" transform="translate(150 7)"/>
+            <line id="l-38" data-name="l" class="cls-6" y2="100" transform="translate(200 7)"/>
+          </g>
+          <g id="dots-3" data-name="dots" transform="translate(-21159.307 -22933.074)">
+            <circle id="dot-17" data-name="dot" class="cls-12" cx="2" cy="2" r="2" transform="translate(6.047 98.523)"/>
+            <circle id="dot-18" data-name="dot" class="cls-12" cx="2" cy="2" r="2" transform="translate(41.047 74.523)"/>
+            <circle id="dot-19" data-name="dot" class="cls-12" cx="2" cy="2" r="2" transform="translate(66.047 67.523)"/>
+            <circle id="dot-20" data-name="dot" class="cls-12" cx="2" cy="2" r="2" transform="translate(91.047 47.523)"/>
+            <circle id="dot-21" data-name="dot" class="cls-12" cx="2" cy="2" r="2" transform="translate(141.047 11.523)"/>
+            <circle id="dot-22" data-name="dot" class="cls-12" cx="2" cy="2" r="2" transform="translate(168.047 47.523)"/>
+            <circle id="dot-23" data-name="dot" class="cls-12" cx="2" cy="2" r="2" transform="translate(191.047 26.523)"/>
+            <circle id="dot-24" data-name="dot" class="cls-12" cx="2" cy="2" r="2" transform="translate(115.047 32.523)"/>
+          </g>
+          <g id="ticks-4" data-name="ticks">
+            <rect id="tick-30" data-name="tick" class="cls-3" width="8" height="3" rx="1.5" transform="translate(-21183.26 -22844.051)"/>
+            <rect id="tick-31" data-name="tick" class="cls-3" width="8" height="3" rx="1.5" transform="translate(-21183.26 -22865.051)"/>
+            <rect id="tick-32" data-name="tick" class="cls-3" width="8" height="3" rx="1.5" transform="translate(-21183.26 -22886.051)"/>
+            <rect id="tick-33" data-name="tick" class="cls-3" width="8" height="3" rx="1.5" transform="translate(-21183.26 -22907.051)"/>
+            <rect id="tick-34" data-name="tick" class="cls-3" width="8" height="3" rx="1.5" transform="translate(-21183.26 -22928.051)"/>
+            <rect id="tick-35" data-name="tick" class="cls-3" width="6" height="3" rx="1.5" transform="translate(-21119.26 -22823.551)"/>
+            <rect id="tick-36" data-name="tick" class="cls-3" width="6" height="3" rx="1.5" transform="translate(-21069.26 -22823.551)"/>
+            <rect id="tick-37" data-name="tick" class="cls-3" width="6" height="3" rx="1.5" transform="translate(-21019.26 -22823.551)"/>
+            <rect id="tick-38" data-name="tick" class="cls-3" width="6" height="3" rx="1.5" transform="translate(-20969.26 -22823.551)"/>
+          </g>
+          <path id="line-4" data-name="line" class="cls-13" d="M-20813.551-20746.881l35.342-24.221,24.949-7.02,25.051-19.855,23.951-15.064,25.938-21.043,27.033,36.107,23.1-21.2" transform="translate(-337.934 -2085.477)"/>
+        </g>
+        <text id="widget-title-5" data-name="widget-title" class="cls-4" transform="translate(83 31)"><tspan x="-66.944" y="0">Validation Mean DiCE</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

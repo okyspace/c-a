@@ -1,0 +1,17 @@
+[{
+	"task_id": "5776e644f9604a4f944518dd5960b0d0",
+	"queue": "erez",
+	"task_name": "pytorch_test",
+	"target_project": "pytorch_mnist",
+	"minute": "5",
+	"hour": null,
+	"day": null,
+	"weekdays": "1,2,3",
+	"month": null,
+	"year": null,
+	"recurring": true,
+	"task_parameters": {
+		"Args/batch_size": 128,
+		"Args/lr": 0.0002
+	}
+}]

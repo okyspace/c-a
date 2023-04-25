@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1220" height="930" viewBox="0 0 1220 930">
+    <defs>
+        <style>
+            .cls-1{fill:#0d0e15}.cls-2{fill:#384161}.cls-3,.cls-4{fill:#a4adcd}.cls-4{font-size:14px;font-family:Heebo-Regular,Heebo,sans-serif}.cls-7,.cls-8{fill:none}.cls-7{stroke:#39405f}.cls-8{stroke:#384161}.cls-9{fill:#7bae80}
+        </style>
+    </defs>
+    <g id="app-gcp-auto-scaler-preview" transform="translate(-436 -96)">
+        <g id="widget" transform="translate(424 684.23)">
+            <g id="widget-content" transform="translate(12 40.223)">
+                <rect id="widget-2" data-name="widget" class="cls-1" width="1220" height="302" rx="4" transform="translate(0 -.453)"/>
+                <g id="log" transform="translate(-197.969 -792.453)">
+                    <g id="Group_692" data-name="Group 692" transform="translate(452 889)">
+                        <rect id="Rectangle_809" data-name="Rectangle 809" class="cls-2" width="103" height="3" rx="1.5" transform="translate(-.031)"/>
+                        <rect id="Rectangle_810" data-name="Rectangle 810" class="cls-2" width="380" height="3" rx="1.5" transform="translate(120.969)"/>
+                    </g>
+                    <g id="Group_692-2" data-name="Group 692" transform="translate(452 909.992)">
+                        <rect id="Rectangle_809-2" data-name="Rectangle 809" class="cls-3" width="103" height="3" rx="1.5" transform="translate(-.031 .008)"/>
+                        <rect id="Rectangle_810-2" data-name="Rectangle 810" class="cls-3" width="591" height="3" rx="1.5" transform="translate(120.969 .008)"/>
+                    </g>
+                    <g id="Group_692-3" data-name="Group 692" transform="translate(452 930.985)">
+                        <rect id="Rectangle_809-3" data-name="Rectangle 809" class="cls-2" width="103" height="3" rx="1.5" transform="translate(-.031 .016)"/>
+                        <rect id="Rectangle_810-3" data-name="Rectangle 810" class="cls-2" width="667" height="3" rx="1.5" transform="translate(120.969 .016)"/>
+                    </g>
+                    <g id="Group_692-4" data-name="Group 692" transform="translate(452 951.978)">
+                        <rect id="Rectangle_809-4" data-name="Rectangle 809" class="cls-2" width="103" height="3" rx="1.5" transform="translate(-.031 .021)"/>
+                        <rect id="Rectangle_810-4" data-name="Rectangle 810" class="cls-2" width="168" height="3" rx="1.5" transform="translate(120.969 .021)"/>
+                    </g>
+                    <g id="Group_693" data-name="Group 693" transform="translate(452 972.97)">
+                        <rect id="Rectangle_809-5" data-name="Rectangle 809" class="cls-3" width="103" height="3" rx="1.5" transform="translate(-.031 .029)"/>
+                        <rect id="Rectangle_810-5" data-name="Rectangle 810" class="cls-3" width="231" height="3" rx="1.5" transform="translate(120.969 .029)"/>
+                    </g>
+                    <g id="Group_695" data-name="Group 695" transform="translate(452 993.963)">
+                        <rect id="Rectangle_809-6" data-name="Rectangle 809" class="cls-2" width="103" height="3" rx="1.5" transform="translate(-.031 .037)"/>
+                        <rect id="Rectangle_810-6" data-name="Rectangle 810" class="cls-2" width="303" height="3" rx="1.5" transform="translate(120.969 .037)"/>
+                    </g>
+                </g>
+                <text id="widget-title" class="cls-4" transform="translate(16 30.547)"><tspan x="0" y="0">Console Log</tspan></text>
+            </g>
+        </g>
+        <g id="widget-3" data-name="widget" transform="translate(424 398)">
+            <g id="widget-content-2" data-name="widget-content" transform="translate(12 12)">
+                <rect id="widget-4" data-name="widget" class="cls-1" width="1220" height="302" rx="4"/>
+                <text id="widget-title-2" data-name="widget-title" class="cls-4" transform="translate(16 31)"><tspan x="0" y="0">Instances</tspan></text>
+                <g id="gauge" transform="translate(-116.002 -117)">
+                    <g id="gauge-frame" style="fill:#11141d">
+                        <path d="m27.827 117.637-27.291-.001a125.07 125.07 0 0 1 21.19-61.665 126.319 126.319 0 0 1 15.364-18.62 126.332 126.332 0 0 1 18.619-15.363 125.075 125.075 0 0 1 44.987-18.932A126.724 126.724 0 0 1 126.053.5c8.537 0 17.068.86 25.356 2.557a125.077 125.077 0 0 1 44.987 18.931 126.404 126.404 0 0 1 18.621 15.364 126.32 126.32 0 0 1 15.364 18.619 125.191 125.191 0 0 1 18.934 44.987 126.641 126.641 0 0 1 2.258 16.677H225.19a99.769 99.769 0 0 0-1.595-10.837 98.546 98.546 0 0 0-14.912-35.435 99.958 99.958 0 0 0-12.1-14.667 100.031 100.031 0 0 0-14.667-12.1 99.289 99.289 0 0 0-16.832-9.137 98.664 98.664 0 0 0-18.603-5.775 100.081 100.081 0 0 0-39.942 0 98.594 98.594 0 0 0-18.603 5.775A99.396 99.396 0 0 0 71.1 44.595a99.974 99.974 0 0 0-14.665 12.1 99.96 99.96 0 0 0-12.102 14.668 99.127 99.127 0 0 0-9.136 16.833 98.468 98.468 0 0 0-7.37 29.44z" style="stroke:none" transform="translate(597.227 207.479)"/>
+                        <path d="M27.372 117.137a98.97 98.97 0 0 1 7.365-29.135 99.628 99.628 0 0 1 9.182-16.92 100.458 100.458 0 0 1 12.163-14.74 100.478 100.478 0 0 1 14.74-12.161 99.898 99.898 0 0 1 16.92-9.182 99.096 99.096 0 0 1 18.696-5.805 100.583 100.583 0 0 1 40.143 0 99.17 99.17 0 0 1 18.698 5.805 99.793 99.793 0 0 1 16.917 9.182 100.534 100.534 0 0 1 14.74 12.161c4.508 4.51 8.6 9.47 12.162 14.74a99.047 99.047 0 0 1 14.988 35.615c.698 3.424 1.222 6.93 1.56 10.439l25.39-.001a126.109 126.109 0 0 0-2.21-16.077 124.689 124.689 0 0 0-18.86-44.807 125.815 125.815 0 0 0-15.302-18.546 125.9 125.9 0 0 0-18.548-15.303A124.576 124.576 0 0 0 151.31 3.546 126.216 126.216 0 0 0 126.053 1c-8.503 0-17.001.857-25.257 2.547A124.578 124.578 0 0 0 55.99 22.403a125.83 125.83 0 0 0-18.546 15.303A125.812 125.812 0 0 0 22.14 56.25a124.57 124.57 0 0 0-21.068 60.885h26.3m.913 1H.002a125.572 125.572 0 0 1 21.31-62.445 126.814 126.814 0 0 1 15.424-18.693A126.827 126.827 0 0 1 55.43 21.574a125.577 125.577 0 0 1 45.166-19.007A127.223 127.223 0 0 1 126.054 0c8.57 0 17.135.864 25.457 2.567a125.578 125.578 0 0 1 45.166 19.007 126.901 126.901 0 0 1 18.695 15.424c5.715 5.71 10.904 12 15.424 18.693a125.69 125.69 0 0 1 19.01 45.167 127.175 127.175 0 0 1 2.302 17.277h-27.374a99.28 99.28 0 0 0-1.628-11.237 98.044 98.044 0 0 0-14.836-35.255 99.453 99.453 0 0 0-12.04-14.594 99.53 99.53 0 0 0-14.593-12.04 98.788 98.788 0 0 0-16.747-9.09 98.167 98.167 0 0 0-18.508-5.746 99.567 99.567 0 0 0-19.872-2.001 99.58 99.58 0 0 0-19.87 2.001A98.093 98.093 0 0 0 88.13 35.92a98.899 98.899 0 0 0-16.75 9.09 99.474 99.474 0 0 0-14.592 12.04 99.454 99.454 0 0 0-12.041 14.593 98.624 98.624 0 0 0-9.09 16.748 97.966 97.966 0 0 0-7.373 29.745z" style="fill:#39405f;stroke:none" transform="translate(597.227 207.479)"/>
+                    </g>
+                    <path id="gauge-fill" d="M12.75 110.867H0a118.814 118.814 0 0 1 2.179-16.54 117.464 117.464 0 0 1 17.776-42.241 118.465 118.465 0 0 1 51.977-42.8A117.512 117.512 0 0 1 94.107 2.4a119.3 119.3 0 0 1 47.618 0A117.55 117.55 0 0 1 163.9 9.284a117.94 117.94 0 0 1 10.6 5.126l-6.56 10.916a105.333 105.333 0 0 0-8.993-4.32 105 105 0 0 0-19.788-6.142 106.435 106.435 0 0 0-42.488 0 104.818 104.818 0 0 0-37.692 15.861A105.732 105.732 0 0 0 20.786 77.1a105.019 105.019 0 0 0-6.143 19.787 106.365 106.365 0 0 0-1.893 13.974z" transform="translate(605.365 214.748)" style="fill:#4e5aa0"/>
+                    <g id="ticks">
+                        <path id="tick-line" class="cls-7" transform="translate(591.967 325.16)" d="M5.452 0H0"/>
+                        <path id="tick-line-2" data-name="tick-line" class="cls-7" transform="rotate(42 1.972 942.012)" d="M5.452 0H0"/>
+                        <path id="tick-line-3" data-name="tick-line" class="cls-7" transform="rotate(90 260.626 462.653)" d="M5.452 0H0"/>
+                        <path id="tick-line-4" data-name="tick-line" class="cls-7" transform="rotate(-42 724.034 -935.097)" d="M5.452 0H0"/>
+                        <path id="tick-line-5" data-name="tick-line" class="cls-7" transform="translate(848.232 325.16)" d="M5.452 0H0"/>
+                        <path id="tick" class="cls-3" d="M20460.5 21265a1.5 1.5 0 0 1 0-3h11a1.5 1.5 0 0 1 0 3zm-274 0a1.5 1.5 0 0 1 0-3h5a1.5 1.5 0 0 1 0 3zm127-29a3.5 3.5 0 0 1 0-7h25a3.5 3.5 0 1 1 0 7zm110-58a1.5 1.5 0 1 1 0-3h11a1.5 1.5 0 1 1 0 3zm-204 0a1.5 1.5 0 1 1 0-3h11a1.5 1.5 0 1 1 0 3zm101-41a1.5 1.5 0 0 1 0-3h11a1.5 1.5 0 0 1 0 3z" transform="translate(-19603 -20938)"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="widget-5" data-name="widget" transform="translate(1040 84)">
+            <g id="widget-content-3" data-name="widget-content" transform="translate(12 12)">
+                <rect id="widget-6" data-name="widget" class="cls-1" width="604" height="302" rx="4"/>
+                <text id="widget-title-3" data-name="widget-title" class="cls-4" transform="translate(16 31)"><tspan x="0" y="0">Tasks In Queues </tspan></text>
+                <g id="graph" transform="translate(199 97.094)">
+                    <g id="x-y-lines" transform="translate(12 15.115)">
+                        <path id="l" class="cls-8" transform="translate(0 12.291)" d="M0 0h194"/>
+                        <path id="l-2" data-name="l" class="cls-8" transform="translate(0 40.291)" d="M0 0h194"/>
+                        <path id="l-3" data-name="l" class="cls-8" transform="translate(0 67.291)" d="M0 0h194"/>
+                        <path id="l-4" data-name="l" class="cls-8" transform="translate(0 95.291)" d="M0 0h194"/>
+                        <path id="l-5" data-name="l" class="cls-8" transform="translate(0 -14.709)" d="M0 0h194"/>
+                        <path id="l-6" data-name="l" class="cls-8" transform="translate(136.563 -14.674)" d="M0 0v114.674"/>
+                        <path id="l-7" data-name="l" class="cls-8" transform="translate(47.793 -14.674)" d="M0 0v114.789"/>
+                    </g>
+                    <g id="ticks-2" data-name="ticks" transform="translate(0 20.656)">
+                        <rect id="tick-2" data-name="tick" class="cls-3" width="8" height="3" rx="1.5" transform="translate(0 60)"/>
+                        <rect id="tick-3" data-name="tick" class="cls-3" width="8" height="3" rx="1.5" transform="translate(0 33)"/>
+                        <rect id="tick-4" data-name="tick" class="cls-3" width="15" height="3" rx="1.5" transform="translate(51.453 98.5)"/>
+                        <rect id="tick-5" data-name="tick" class="cls-3" width="8" height="3" rx="1.5" transform="translate(0 88)"/>
+                        <rect id="tick-6" data-name="tick" class="cls-3" width="8" height="3" rx="1.5" transform="translate(0 5)"/>
+                        <rect id="tick-7" data-name="tick" class="cls-3" width="8" height="3" rx="1.5" transform="translate(0 -22)"/>
+                        <rect id="tick-8" data-name="tick" class="cls-3" width="15" height="3" rx="1.5" transform="translate(141.453 98.5)"/>
+                    </g>
+                    <g id="bars">
+                        <path id="bar" class="cls-9" transform="translate(22 54.941)" d="M0 0h74v55H0z"/>
+                        <path id="bar-2" data-name="bar" class="cls-9" transform="translate(112 .941)" d="M0 0h74v109H0z"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="widget-7" data-name="widget" transform="translate(424 84)">
+            <g id="widget-content-4" data-name="widget-content" transform="translate(12 12)">
+                <rect id="widget-8" data-name="widget" class="cls-1" width="604" height="302" rx="4"/>
+                <text id="widget-title-4" data-name="widget-title" class="cls-4" transform="translate(16 31)"><tspan x="0" y="0">Idle Instances</tspan></text>
+                <g id="number" transform="translate(-427 -113)">
+                    <rect id="tic" class="cls-3" width="40" height="6" rx="3" transform="translate(709 205)"/>
+                    <path id="number-2" data-name="number" class="cls-3" d="M21947 12966c0-7.908 5.168-14.743 12.664-17.987a16.131 16.131 0 0 1-7.664-13.511c0-9.112 8.059-16.5 18-16.5s18 7.391 18 16.5a16.19 16.19 0 0 1-8.078 13.772c7.18 3.34 12.08 10.024 12.08 17.726 0 11.05-10.078 20-22.5 20s-22.502-8.952-22.502-20zm6 0c0 7.722 7.406 14 16.5 14s16.5-6.281 16.5-14-7.4-14-16.5-14-16.5 6.282-16.5 14zm5-31.5c0 5.79 5.387 10.5 12 10.5s12-4.708 12-10.5-5.387-10.5-12-10.5-12 4.71-12 10.5z" transform="translate(-21240 -12683)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

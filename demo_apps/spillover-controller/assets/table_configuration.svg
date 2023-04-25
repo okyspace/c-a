@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="381" height="76" viewBox="0 0 381 76">
+  <g id="table" transform="translate(-111 -121)">
+    <g id="table-2" data-name="table" transform="translate(111 121)" fill="none" stroke="#384161" stroke-width="1">
+      <rect width="381" height="76" stroke="none"/>
+      <rect x="0.5" y="0.5" width="380" height="75" fill="none"/>
+    </g>
+    <g id="row" transform="translate(111 121)" fill="#1a1e2c" stroke="#384161" stroke-width="1">
+      <rect width="381" height="16" stroke="none"/>
+      <rect x="0.5" y="0.5" width="380" height="15" fill="none"/>
+    </g>
+    <g id="row-2" data-name="row" transform="translate(111 136)" fill="none" stroke="#384161" stroke-width="1">
+      <rect width="381" height="16" stroke="none"/>
+      <rect x="0.5" y="0.5" width="380" height="15" fill="none"/>
+    </g>
+    <g id="row-3" data-name="row" transform="translate(111 151)" fill="none" stroke="#384161" stroke-width="1">
+      <rect width="381" height="16" stroke="none"/>
+      <rect x="0.5" y="0.5" width="380" height="15" fill="none"/>
+    </g>
+    <g id="row-4" data-name="row" transform="translate(111 166)" fill="none" stroke="#384161" stroke-width="1">
+      <rect width="381" height="16" stroke="none"/>
+      <rect x="0.5" y="0.5" width="380" height="15" fill="none"/>
+    </g>
+    <g id="row-5" data-name="row" transform="translate(111 181)" fill="none" stroke="#384161" stroke-width="1">
+      <rect width="381" height="16" stroke="none"/>
+      <rect x="0.5" y="0.5" width="380" height="15" fill="none"/>
+    </g>
+    <line id="divider" y2="74.359" transform="translate(204.5 122.141)" fill="none" stroke="rgba(56,65,97,0.3)" stroke-width="1"/>
+    <line id="divider-2" data-name="divider" y2="74.359" transform="translate(301.501 122.141)" fill="none" stroke="rgba(56,65,97,0.3)" stroke-width="1"/>
+    <line id="divider-3" data-name="divider" y2="74.359" transform="translate(398.5 122.141)" fill="none" stroke="rgba(56,65,97,0.3)" stroke-width="1"/>
+    <path id="text" d="M17681.5,20456a1.5,1.5,0,0,1,0-3h12a1.5,1.5,0,1,1,0,3Zm-97,0a1.5,1.5,0,1,1,0-3h17a1.5,1.5,0,1,1,0,3Zm-97,0a1.5,1.5,0,1,1,0-3h23a1.5,1.5,0,0,1,0,3Zm-94,0a1.5,1.5,0,0,1,0-3h29a1.5,1.5,0,1,1,0,3Zm288-15a1.5,1.5,0,0,1,0-3h41a1.5,1.5,0,1,1,0,3Zm-97,0a1.5,1.5,0,1,1,0-3h70a1.5,1.5,0,0,1,0,3Zm-97,0a1.5,1.5,0,1,1,0-3h10a1.5,1.5,0,1,1,0,3Zm-94,0a1.5,1.5,0,0,1,0-3h41a1.5,1.5,0,1,1,0,3Zm288-15a1.5,1.5,0,0,1,0-3h24a1.5,1.5,0,1,1,0,3Zm-97,0a1.5,1.5,0,1,1,0-3h7a1.5,1.5,0,0,1,0,3Zm-97,0a1.5,1.5,0,1,1,0-3h18a1.5,1.5,0,1,1,0,3Zm-94,0a1.5,1.5,0,0,1,0-3h19a1.5,1.5,0,1,1,0,3Zm288-15a1.5,1.5,0,0,1,0-3h12a1.5,1.5,0,1,1,0,3Zm-97,0a1.5,1.5,0,1,1,0-3h39a1.5,1.5,0,1,1,0,3Zm-97,0a1.5,1.5,0,1,1,0-3h8a1.5,1.5,0,1,1,0,3Zm-94,0a1.5,1.5,0,0,1,0-3h58a1.5,1.5,0,0,1,0,3Zm288-15a1.5,1.5,0,0,1,0-3h46a1.5,1.5,0,0,1,0,3Zm-97,0a1.5,1.5,0,1,1,0-3h27a1.5,1.5,0,0,1,0,3Zm-97,0a1.5,1.5,0,0,1,0-3h50a1.5,1.5,0,1,1,0,3Zm-94,0a1.5,1.5,0,0,1,0-3h33a1.5,1.5,0,0,1,0,3Z" transform="translate(-17275 -20265)" fill="#a4adcd"/>
+  </g>
+</svg>

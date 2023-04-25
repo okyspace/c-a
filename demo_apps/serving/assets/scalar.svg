@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220.624" height="137" viewBox="0 0 220.624 137">
+  <g id="graph" transform="translate(0 0.058)">
+    <rect id="legend" width="61" height="3" rx="1.5" transform="translate(79 -0.058)" fill="#a4adcd"/>
+    <g id="x-y-lines" transform="translate(12 15.115)">
+      <line id="l" y2="100" transform="translate(124.5)" fill="none" stroke="#384161" stroke-width="1"/>
+      <line id="l-2" data-name="l" y2="100" transform="translate(86.5)" fill="none" stroke="#384161" stroke-width="1"/>
+      <line id="l-3" data-name="l" y2="100" transform="translate(48.5)" fill="none" stroke="#384161" stroke-width="1"/>
+      <line id="l-4" data-name="l" x2="208" transform="translate(0 36)" fill="none" stroke="#384161" stroke-width="1"/>
+      <line id="l-5" data-name="l" y2="100" transform="translate(162.5)" fill="none" stroke="#384161" stroke-width="1"/>
+      <line id="l-6" data-name="l" y2="99.8" transform="translate(200.5 0.115)" fill="none" stroke="#384161" stroke-width="1"/>
+      <line id="l-7" data-name="l" y2="100" transform="translate(10.5 0.115)" fill="none" stroke="#384161" stroke-width="1"/>
+      <line id="l-8" data-name="l" y2="100" transform="translate(200.5)" fill="none" stroke="#384161" stroke-width="1"/>
+      <line id="l-9" data-name="l" x2="208" transform="translate(0 7)" fill="none" stroke="#384161" stroke-width="1"/>
+      <line id="l-10" data-name="l" x2="208" transform="translate(0 65)" fill="none" stroke="#384161" stroke-width="1"/>
+      <line id="l-11" data-name="l" x2="208" transform="translate(0 95)" fill="none" stroke="#384161" stroke-width="1"/>
+    </g>
+    <g id="ticks" transform="translate(0 20.656)">
+      <rect id="tick" width="8" height="3" rx="1.5" transform="translate(0 58.286)" fill="#a4adcd"/>
+      <rect id="tick-2" data-name="tick" width="8" height="3" rx="1.5" transform="translate(0 29.285)" fill="#a4adcd"/>
+      <rect id="tick-3" data-name="tick" width="6" height="3" rx="1.5" transform="translate(19.453 98.5)" fill="#a4adcd"/>
+      <rect id="tick-4" data-name="tick" width="6" height="3" rx="1.5" transform="translate(57.5 98.5)" fill="#a4adcd"/>
+      <rect id="tick-5" data-name="tick" width="6" height="3" rx="1.5" transform="translate(95.547 98.5)" fill="#a4adcd"/>
+      <rect id="tick-6" data-name="tick" width="8" height="3" rx="1.5" transform="translate(0 88.285)" fill="#a4adcd"/>
+      <rect id="tick-7" data-name="tick" width="6" height="3" rx="1.5" transform="translate(133.547 98.5)" fill="#a4adcd"/>
+      <rect id="tick-8" data-name="tick" width="6" height="3" rx="1.5" transform="translate(171.547 98.5)" fill="#a4adcd"/>
+      <rect id="tick-9" data-name="tick" width="6" height="3" rx="1.5" transform="translate(209.547 98.5)" fill="#a4adcd"/>
+      <rect id="tick-10" data-name="tick" width="8" height="3" rx="1.5" transform="translate(0 0.285)" fill="#a4adcd"/>
+    </g>
+    <rect id="legend-2" data-name="legend" width="61" height="3" rx="1.5" transform="translate(79 133.941)" fill="#a4adcd"/>
+    <rect id="color" width="14" height="3" rx="1.5" transform="translate(12 133.941)" fill="#7bae80"/>
+    <path id="Path_828" data-name="Path 828" d="M12,63.528l5.537-41.446,2.439,56.111L26.07,26.217,29.02,94.989l3.8-59.916,5.6,67.243,4.615-76.1,3.178,80.871,5.213-85.006,3.459,88.433,5.324-81.094,3.021,72.9,3.588-65.164L71.18,92.16l3.615-62.739,3.9,70.813L82.6,37.152l5.818,69.936L92.2,29.421l3.635,65.568,4.3-72.907,5.67,88.433,2.744-75.441,2.99,67.243,6.283-72.9,4.586,77.667,4.275-85.006,3.936,75.329,4.729-67.99,3.516,55.789,3.26-48.058,3.3,65.164,5.23-76.1,5.623,84.3,3.156-77.05,7.336,68.852,3.338-76.1,7.348,80.871,3.051-72.015,6.174,59.916,4.09-68.772,3.895,80.871,3.182-69.936,5.391,73.362,5.248-88.433,4.352,86.656,2.234-86.656,4.555,88.433" fill="none" stroke="#7bae80" stroke-width="2"/>
+  </g>
+</svg>
